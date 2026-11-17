@@ -79,6 +79,7 @@ TEMPLATE = r"""<!DOCTYPE html>
       <button class="chip" data-status="要問合せ">要問合せ</button>
       <button class="chip" data-status="予備">予備</button>
       <button class="chip star" id="starChip">★のみ</button>
+      <button class="chip" id="tokyoChip">東京のみ</button>
     </div>
     <input class="search" id="search" type="search" placeholder="建物名・エリア・駅で検索">
   </div>
@@ -125,6 +126,13 @@ function badgeCls(change){
   return "b-upd";
 }
 function statusCls(s){ return s === "全条件クリア" ? "b-ok" : (s === "要問合せ" ? "b-ask" : "b-sub"); }
+function regionOf(area){
+  const a = area || "";
+  if (a.includes("川崎市") || a.includes("横浜市")) return "kawasaki";
+  if (a.includes("さいたま市") || a.includes("埼玉県")) return "saitama";
+  return "tokyo";
+}
+function regionRank(area){ const r = regionOf(area); return r === "tokyo" ? 0 : (r === "kawasaki" ? 1 : 2); }
 
 function renderSummary(){
   const rooms = DATA.buildings.flatMap(b => b.rooms);
@@ -148,8 +156,9 @@ function renderChanges(){
   document.getElementById("changes").innerHTML = any ? html : "<h2>今回の変更点</h2><div class='row'>変更はありません</div>";
 }
 
-let filterStatus = "", filterStar = false, filterText = "";
+let filterStatus = "", filterStar = false, filterText = "", filterTokyo = false;
 function roomMatches(b, r){
+  if (filterTokyo && regionOf(b.area) !== "tokyo") return false;
   if (filterStatus && r.status !== filterStatus) return false;
   if (filterStar && !stars[r.id]) return false;
   if (filterText){
@@ -161,7 +170,8 @@ function roomMatches(b, r){
 function renderList(){
   const main = document.getElementById("list");
   let html = "", shown = 0;
-  for (const b of DATA.buildings){
+  const ordered = [...DATA.buildings].sort((x, y) => regionRank(x.area) - regionRank(y.area));
+  for (const b of ordered){
     const rs = b.rooms.filter(r => roomMatches(b, r));
     if (!rs.length) continue;
     shown += rs.length;
@@ -232,6 +242,11 @@ document.getElementById("statusChips").addEventListener("click", e => {
 document.getElementById("starChip").addEventListener("click", e => {
   filterStar = !filterStar;
   e.currentTarget.classList.toggle("on", filterStar);
+  renderList();
+});
+document.getElementById("tokyoChip").addEventListener("click", e => {
+  filterTokyo = !filterTokyo;
+  e.currentTarget.classList.toggle("on", filterTokyo);
   renderList();
 });
 document.getElementById("search").addEventListener("input", e => { filterText = e.target.value.trim(); renderList(); });
