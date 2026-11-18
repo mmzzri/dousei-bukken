@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "buildings": [
     {
       "name": "ドミール田園調布",
@@ -264,16 +264,16 @@
           "room": "",
           "layout": "2LDK",
           "size": 52.08,
-          "rent": null,
-          "fee": null,
+          "rent": 13.0,
+          "fee": 0.5,
           "total": 13.5,
           "kamata_min": "約15分",
           "status": "要問合せ",
-          "change": null,
+          "change": "情報更新",
           "expiry": null,
           "source": "SUUMO",
           "url": "https://suumo.jp/chintai/jnc_000110917933/",
-          "note": "独立洗面台・ウォシュレットあり、ガスコンロ口数未確認。賃料と管理費の内訳は未確認"
+          "note": "独立洗面台・ウォシュレット・普通借家2年あり、ガスコンロ口数未確認"
         }
       ]
     },
@@ -385,7 +385,7 @@
           "kamata_min": "約25分",
           "status": "要問合せ",
           "change": "情報更新",
-          "expiry": "2026-11-23",
+          "expiry": "2026-12-02",
           "source": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100525649014/",
           "note": "コンロ2口以上あり、独立洗面台・ウォシュレット未確認、プロパンガス"
@@ -401,7 +401,7 @@
           "kamata_min": "約30分",
           "status": "要問合せ",
           "change": "情報更新",
-          "expiry": null,
+          "expiry": "2026-12-02",
           "source": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100525417712/",
           "note": "プロパンガス・ガスコンロ対応、独立洗面台・ウォシュレット未確認"
@@ -922,7 +922,7 @@
           "total": 14.0,
           "kamata_min": "約50〜55分",
           "status": "全条件クリア",
-          "change": "新規 11/16",
+          "change": null,
           "expiry": "2026-11-24",
           "source": "住まい探しの窓口",
           "url": "https://www.sumaisagashi-madoguchi.com/search/properties_iel000039_5679434/",
@@ -945,7 +945,7 @@
           "total": 13.4,
           "kamata_min": "約40〜45分",
           "status": "要問合せ",
-          "change": "新規 11/16",
+          "change": null,
           "expiry": "2026-11-20",
           "source": "住まい探しの窓口",
           "url": "https://www.sumaisagashi-madoguchi.com/search/properties_iel000143_920815/",
@@ -968,7 +968,7 @@
           "total": 11.0,
           "kamata_min": "約55〜60分",
           "status": "要問合せ",
-          "change": "新規 11/16",
+          "change": null,
           "expiry": "2026-11-24",
           "source": "住まい探しの窓口",
           "url": "https://www.sumaisagashi-madoguchi.com/search/properties_iel000045_5682854/",
@@ -991,7 +991,7 @@
           "total": 14.0,
           "kamata_min": "約45〜50分",
           "status": "要問合せ",
-          "change": "新規 11/16",
+          "change": null,
           "expiry": null,
           "source": "Instagram（ワンダー）",
           "url": "https://www.instagram.com/p/DfyQdi_DnYz/",
@@ -1014,7 +1014,7 @@
           "total": 12.2,
           "kamata_min": "約40〜45分",
           "status": "要問合せ",
-          "change": "新規 11/16",
+          "change": null,
           "expiry": null,
           "source": "Instagram（コンニチハトーキョー）",
           "url": "https://www.instagram.com/p/DetZyqlo7Tb/",
@@ -1037,7 +1037,7 @@
           "total": 13.9,
           "kamata_min": "約45〜50分",
           "status": "予備",
-          "change": "情報更新",
+          "change": null,
           "expiry": "2026-11-30",
           "source": "住まい探しの窓口",
           "url": "https://www.sumaisagashi-madoguchi.com/search/properties_iel000039_5826863/",
@@ -1060,7 +1060,7 @@
           "total": 13.2,
           "kamata_min": "約50分",
           "status": "予備",
-          "change": "新規 11/16",
+          "change": null,
           "expiry": "2026-11-24",
           "source": "住まい探しの窓口",
           "url": "https://www.sumaisagashi-madoguchi.com/search/properties_iel000039_5824074/",
@@ -1076,34 +1076,11 @@
           "total": 13.8,
           "kamata_min": "約50分",
           "status": "要問合せ",
-          "change": "別部屋追加",
+          "change": null,
           "expiry": null,
           "source": "CAMPA",
           "url": "https://campa-student.townhousing.co.jp/building/detail/%E3%83%91%E3%83%BC%E3%82%AF%E3%83%92%E3%83%AB%E3%82%BA%E9%B7%BA%E6%B2%BC%E5%BC%90%E7%95%AA%E9%A4%A8-542424/",
           "note": "同建物の別部屋の追加募集。設備・契約は部屋別未確認"
-        }
-      ]
-    },
-    {
-      "name": "ヒルサイドタウンA",
-      "area": "川崎市宮前区菅生5-11-10",
-      "station": "宮前平駅バス8分",
-      "rooms": [
-        {
-          "id": "hillside-town-a-1f",
-          "room": "1階",
-          "layout": "2DK",
-          "size": 50.12,
-          "rent": 8.4,
-          "fee": 0.45,
-          "total": 8.85,
-          "kamata_min": "約50分",
-          "status": "予備",
-          "change": "新規 11/16",
-          "expiry": "2026-11-19",
-          "source": "住まい探しの窓口",
-          "url": "https://www.sumaisagashi-madoguchi.com/search/properties_iel000045_1617307/",
-          "note": "ガス2口・独立洗面台・普通契約2年あり、ウォシュレット未確認"
         }
       ]
     },
@@ -1122,7 +1099,7 @@
           "total": 10.65,
           "kamata_min": "約55〜60分",
           "status": "要問合せ",
-          "change": "新規 11/17",
+          "change": null,
           "expiry": "2026-11-23",
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/b-1432080083791/",
@@ -1145,7 +1122,7 @@
           "total": 11.0,
           "kamata_min": "約45分",
           "status": "要問合せ",
-          "change": "新規 11/17",
+          "change": null,
           "expiry": null,
           "source": "ハウスコム",
           "url": "https://www.housecom.jp/room_4851652/",
@@ -1168,7 +1145,7 @@
           "total": 10.4,
           "kamata_min": "約40〜45分",
           "status": "要問合せ",
-          "change": "新規 11/17",
+          "change": null,
           "expiry": null,
           "source": "いい部屋ネット",
           "url": "https://www.eheya.net/library/detail/t00799726/",
@@ -1184,7 +1161,7 @@
           "total": 12.7,
           "kamata_min": "約40〜45分",
           "status": "要問合せ",
-          "change": "新規 11/17",
+          "change": null,
           "expiry": null,
           "source": "いい部屋ネット",
           "url": "https://www.eheya.net/library/detail/t00799726/",
@@ -1207,7 +1184,7 @@
           "total": 12.6,
           "kamata_min": "約50〜55分",
           "status": "要問合せ",
-          "change": "新規 11/17",
+          "change": null,
           "expiry": null,
           "source": "いい部屋ネット",
           "url": "https://www.eheya.net/kanagawa/area/14135/043/search/",
@@ -1225,12 +1202,12 @@
           "room": "2階",
           "layout": "2LDK",
           "size": 52.75,
-          "rent": 9.8,
+          "rent": 9.5,
           "fee": 0.65,
-          "total": 10.45,
+          "total": 10.15,
           "kamata_min": "約50〜55分",
           "status": "要問合せ",
-          "change": "新規 11/17",
+          "change": "情報更新",
           "expiry": null,
           "source": "goo",
           "url": "https://house.goo.ne.jp/rent/ap/special/1027/ensen/324/2324140.html",
@@ -1246,7 +1223,7 @@
           "total": 9.8,
           "kamata_min": "約50〜55分",
           "status": "要問合せ",
-          "change": "新規 11/17",
+          "change": null,
           "expiry": null,
           "source": "goo",
           "url": "https://house.goo.ne.jp/rent/ap/special/1027/ensen/324/2324140.html",
@@ -1269,7 +1246,7 @@
           "total": 11.5,
           "kamata_min": "約15〜20分",
           "status": "要問合せ",
-          "change": "新規 11/17",
+          "change": null,
           "expiry": null,
           "source": "アットホーム",
           "url": "https://www.athome.co.jp/bldg-library/tokyo/ota/11345167/",
@@ -1285,11 +1262,80 @@
           "total": 12.0,
           "kamata_min": "約15〜20分",
           "status": "要問合せ",
-          "change": "新規 11/17",
+          "change": null,
           "expiry": null,
           "source": "アットホーム",
           "url": "https://www.athome.co.jp/bldg-library/tokyo/ota/11345167/",
           "note": "独立洗面台・ウォシュレットあり、ガス／IH・借家種別未確認"
+        }
+      ]
+    },
+    {
+      "name": "鷺沼ビラスズキ２号館",
+      "area": "川崎市宮前区鷺沼1丁目",
+      "station": "鷺沼駅徒歩4分",
+      "rooms": [
+        {
+          "id": "saginuma-villa-suzuki-2",
+          "room": "",
+          "layout": "2LDK",
+          "size": 56.1,
+          "rent": 11.5,
+          "fee": 0.0,
+          "total": 11.5,
+          "kamata_min": "約35分",
+          "status": "要問合せ",
+          "change": "新規 11/18",
+          "expiry": null,
+          "source": "goo",
+          "url": "https://house.goo.ne.jp/rent/ap/special/1027/area_kanagawa/14136/005.html",
+          "note": "洗面所独立あり、ウォシュレット・ガス／コンロ・借家種別未確認。部屋番号未特定"
+        }
+      ]
+    },
+    {
+      "name": "ドルチェ鷺沼",
+      "area": "川崎市宮前区鷺沼3丁目",
+      "station": null,
+      "rooms": [
+        {
+          "id": "dolce-saginuma",
+          "room": "",
+          "layout": "2DK",
+          "size": 44.39,
+          "rent": 11.2,
+          "fee": 0.0,
+          "total": 11.2,
+          "kamata_min": "約40分",
+          "status": "要問合せ",
+          "change": "新規 11/18",
+          "expiry": null,
+          "source": "goo",
+          "url": "https://house.goo.ne.jp/rent/ap/detail/0/14136/1068343966/00511597/x01068343966.html",
+          "note": "設備・契約形態・駅徒歩未確認。情報公開日2026/11/17"
+        }
+      ]
+    },
+    {
+      "name": "Ｂｌｕｅ Ｌｏｔｕｓ",
+      "area": "川崎市宮前区初山1丁目",
+      "station": "溝の口駅バス16分",
+      "rooms": [
+        {
+          "id": "blue-lotus-hatsuyama",
+          "room": "",
+          "layout": "2LDK",
+          "size": 45.33,
+          "rent": 11.15,
+          "fee": 0.5,
+          "total": 11.65,
+          "kamata_min": "約45〜50分",
+          "status": "要問合せ",
+          "change": "新規 11/18",
+          "expiry": null,
+          "source": "goo",
+          "url": "https://house.goo.ne.jp/rent/ap/detail/0/14136/1131329526/00511823/x01131329526.html",
+          "note": "設備・契約形態未確認。築2024年3月。情報公開日2026/11/17"
         }
       ]
     }
