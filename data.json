@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "buildings": [
     {
       "name": "ドミール田園調布",
@@ -108,11 +108,11 @@
           "total": 12.3,
           "kamata_min": "約16分",
           "status": "要問合せ",
-          "change": null,
+          "change": "情報更新",
           "expiry": null,
           "source": "SUUMO",
           "url": "https://suumo.jp/chintai/jnc_000111000690/",
-          "note": "ウォシュレット・洗面所独立の記載なし（未確認）。入居2027年1月中旬"
+          "note": "独立洗面台・ウォシュレットあり、ガス口数未確認。入居2027年1月中旬"
         }
       ]
     },
@@ -269,7 +269,7 @@
           "total": 13.5,
           "kamata_min": "約15分",
           "status": "要問合せ",
-          "change": "情報更新",
+          "change": null,
           "expiry": null,
           "source": "SUUMO",
           "url": "https://suumo.jp/chintai/jnc_000110917933/",
@@ -292,11 +292,11 @@
           "total": 10.2,
           "kamata_min": "約15〜20分",
           "status": "要問合せ",
-          "change": null,
+          "change": "情報更新",
           "expiry": null,
           "source": "SUUMO",
           "url": "https://suumo.jp/chintai/jnc_000110942624/",
-          "note": "ウォシュレット・ガス2口あり、独立洗面台未確認"
+          "note": "ウォシュレット・ガス2口・普通借家2年あり、独立洗面台未確認"
         }
       ]
     },
@@ -315,11 +315,11 @@
           "total": 13.3,
           "kamata_min": "約15〜20分",
           "status": "要問合せ",
-          "change": null,
+          "change": "情報更新",
           "expiry": null,
           "source": "SUUMO",
           "url": "https://suumo.jp/chintai/jnc_000110980837/",
-          "note": "独立洗面台・ウォシュレットあり、ガスコンロ口数未確認"
+          "note": "独立洗面台・ウォシュレット・普通借家2年あり、ガスコンロ口数未確認"
         }
       ]
     },
@@ -385,10 +385,10 @@
           "kamata_min": "約25分",
           "status": "要問合せ",
           "change": "情報更新",
-          "expiry": "2026-12-02",
+          "expiry": "2026-12-03",
           "source": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100525649014/",
-          "note": "コンロ2口以上あり、独立洗面台・ウォシュレット未確認、プロパンガス"
+          "note": "コンロ2口以上・普通借家2年あり、独立洗面台・ウォシュレット未確認、プロパンガス"
         },
         {
           "id": "claire-shinkawasaki-2f",
@@ -401,7 +401,7 @@
           "kamata_min": "約30分",
           "status": "要問合せ",
           "change": "情報更新",
-          "expiry": "2026-12-02",
+          "expiry": "2026-12-04",
           "source": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100525417712/",
           "note": "プロパンガス・ガスコンロ対応、独立洗面台・ウォシュレット未確認"
@@ -508,8 +508,8 @@
           "total": 11.7,
           "kamata_min": "約50分",
           "status": "要問合せ",
-          "change": null,
-          "expiry": "2026-11-24",
+          "change": "情報更新",
+          "expiry": "2026-11-23",
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/room/c609948d5e6fe01736a5440b802df5f2bd4d43b9/",
           "note": "独立洗面台・ウォシュレット・普通契約2年あり、コンロ種別・口数未確認"
@@ -554,11 +554,11 @@
           "total": 11.3,
           "kamata_min": "約40分",
           "status": "要問合せ",
-          "change": null,
+          "change": "情報更新",
           "expiry": null,
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/room/f2ddbd716c8b4b40fbe8144c058d7add803b6d92/",
-          "note": "ガス・ウォシュレット・独立洗面台あり、コンロ口数・契約形態未確認"
+          "note": "ガス・ウォシュレット・独立洗面台・契約2年あり、コンロ口数未確認"
         }
       ]
     },
@@ -720,6 +720,22 @@
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/room/3705a16e7d0abadc7289aa700040fa8ce8ec0764/",
           "note": "独立洗面台あり、ウォシュレット・ガスコンロ・契約形態未確認"
+        },
+        {
+          "id": "crescent-heim-4f-b",
+          "room": "4階",
+          "layout": "2DK",
+          "size": 42.5,
+          "rent": 12.0,
+          "fee": 0.5,
+          "total": 12.5,
+          "kamata_min": "徒歩約15分",
+          "status": "要問合せ",
+          "change": "別部屋追加",
+          "expiry": null,
+          "source": "ニフティ",
+          "url": "https://myhome.nifty.com/rent/tokyo/otaku_ct/higashiyaguchi_tw/2/",
+          "note": "部屋番号未特定。既掲載の4階（11.0万円・42.0㎡）とは別部屋の可能性あり。設備・契約未確認"
         }
       ]
     },
@@ -743,29 +759,6 @@
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/room/cf78196111233f9d041cfd5d0f8bae9e6967bec8/",
           "note": "都市ガスのみ確認。独立洗面台・ウォシュレット・ガスコンロ・契約形態未確認"
-        }
-      ]
-    },
-    {
-      "name": "フラッツ飯田",
-      "area": "大田区南雪谷",
-      "station": "雪が谷大塚駅徒歩3分",
-      "rooms": [
-        {
-          "id": "flats-iida-201",
-          "room": "201号室",
-          "layout": "2DK",
-          "size": 37.8,
-          "rent": 10.3,
-          "fee": 0.5,
-          "total": 10.8,
-          "kamata_min": "約20〜25分",
-          "status": "要問合せ",
-          "change": null,
-          "expiry": null,
-          "source": "HOME'S",
-          "url": "https://www.homes.co.jp/chintai/room/5462a8fe4e89292b091ea80581e5924f696648e1/",
-          "note": "ウォシュレットあり、独立洗面台・ガスコンロ・契約形態未確認"
         }
       ]
     },
@@ -853,8 +846,8 @@
           "total": 9.4,
           "kamata_min": "約55〜60分",
           "status": "要問合せ",
-          "change": null,
-          "expiry": "2026-11-20",
+          "change": "情報更新",
+          "expiry": "2026-11-26",
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/b-01432080083615/",
           "note": "独立洗面台・ガス3口あり、ウォシュレット・契約形態未確認"
@@ -876,8 +869,8 @@
           "total": 9.2,
           "kamata_min": "約55〜60分",
           "status": "要問合せ",
-          "change": null,
-          "expiry": "2026-11-20",
+          "change": "情報更新",
+          "expiry": "2026-11-24",
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/b-01432080083621/",
           "note": "独立洗面台あり、ガス・ウォシュレット・契約形態未確認"
@@ -922,8 +915,8 @@
           "total": 14.0,
           "kamata_min": "約50〜55分",
           "status": "全条件クリア",
-          "change": null,
-          "expiry": "2026-11-24",
+          "change": "情報更新",
+          "expiry": "2026-11-30",
           "source": "住まい探しの窓口",
           "url": "https://www.sumaisagashi-madoguchi.com/search/properties_iel000039_5679434/",
           "note": "ガス3口・独立洗面台・ウォシュレット・普通契約2年確認済み"
@@ -968,8 +961,8 @@
           "total": 11.0,
           "kamata_min": "約55〜60分",
           "status": "要問合せ",
-          "change": null,
-          "expiry": "2026-11-24",
+          "change": "情報更新",
+          "expiry": "2026-11-30",
           "source": "住まい探しの窓口",
           "url": "https://www.sumaisagashi-madoguchi.com/search/properties_iel000045_5682854/",
           "note": "ガス3口・独立洗面台・普通契約2年確認済み、ウォシュレット・管理費未確認"
@@ -1060,8 +1053,8 @@
           "total": 13.2,
           "kamata_min": "約50分",
           "status": "予備",
-          "change": null,
-          "expiry": "2026-11-24",
+          "change": "情報更新",
+          "expiry": "2026-11-30",
           "source": "住まい探しの窓口",
           "url": "https://www.sumaisagashi-madoguchi.com/search/properties_iel000039_5824074/",
           "note": "ガス3口・独立洗面台・普通契約2年あり、ウォシュレット未確認。入居2027年2月上旬"
@@ -1207,7 +1200,7 @@
           "total": 10.15,
           "kamata_min": "約50〜55分",
           "status": "要問合せ",
-          "change": "情報更新",
+          "change": null,
           "expiry": null,
           "source": "goo",
           "url": "https://house.goo.ne.jp/rent/ap/special/1027/ensen/324/2324140.html",
@@ -1285,7 +1278,7 @@
           "total": 11.5,
           "kamata_min": "約35分",
           "status": "要問合せ",
-          "change": "新規 11/18",
+          "change": null,
           "expiry": null,
           "source": "goo",
           "url": "https://house.goo.ne.jp/rent/ap/special/1027/area_kanagawa/14136/005.html",
@@ -1308,7 +1301,7 @@
           "total": 11.2,
           "kamata_min": "約40分",
           "status": "要問合せ",
-          "change": "新規 11/18",
+          "change": null,
           "expiry": null,
           "source": "goo",
           "url": "https://house.goo.ne.jp/rent/ap/detail/0/14136/1068343966/00511597/x01068343966.html",
@@ -1331,11 +1324,149 @@
           "total": 11.65,
           "kamata_min": "約45〜50分",
           "status": "要問合せ",
-          "change": "新規 11/18",
+          "change": null,
           "expiry": null,
           "source": "goo",
           "url": "https://house.goo.ne.jp/rent/ap/detail/0/14136/1131329526/00511823/x01131329526.html",
           "note": "設備・契約形態未確認。築2024年3月。情報公開日2026/11/17"
+        }
+      ]
+    },
+    {
+      "name": "ユキハウス",
+      "area": "大田区東雪谷",
+      "station": "石川台駅徒歩4分",
+      "rooms": [
+        {
+          "id": "yuki-house-301",
+          "room": "301号室",
+          "layout": "2LDK",
+          "size": 49.78,
+          "rent": 13.0,
+          "fee": 0.3,
+          "total": 13.3,
+          "kamata_min": "約15〜20分",
+          "status": "要問合せ",
+          "change": "新規 11/19",
+          "expiry": null,
+          "source": "おせっかい不動産",
+          "url": "https://family.osekkai-rooms.jp/properties/p-97801-bo2iry",
+          "note": "設備・契約形態未確認。築36年・鉄骨造。入居時期は相談"
+        }
+      ]
+    },
+    {
+      "name": "クレストK",
+      "area": "大田区西馬込",
+      "station": "西馬込駅徒歩6分",
+      "rooms": [
+        {
+          "id": "crest-k-103",
+          "room": "103号室",
+          "layout": "2DK",
+          "size": 42.0,
+          "rent": 11.7,
+          "fee": 0.3,
+          "total": 12.0,
+          "kamata_min": "約30〜35分",
+          "status": "要問合せ",
+          "change": "新規 11/19",
+          "expiry": null,
+          "source": "おせっかい不動産",
+          "url": "https://family.osekkai-rooms.jp/properties/p-97813-zrfyxv",
+          "note": "設備・契約形態未確認。築57年・木造。入居2027年1月上旬"
+        }
+      ]
+    },
+    {
+      "name": "メゾンコーワ C",
+      "area": "大田区北馬込",
+      "station": "馬込駅徒歩5分",
+      "rooms": [
+        {
+          "id": "maison-kowa-c",
+          "room": "C",
+          "layout": "2DK",
+          "size": 41.3,
+          "rent": 10.0,
+          "fee": 0.0,
+          "total": 10.0,
+          "kamata_min": "約30〜35分",
+          "status": "要問合せ",
+          "change": "新規 11/19",
+          "expiry": null,
+          "source": "おせっかい不動産",
+          "url": "https://family.osekkai-rooms.jp/properties/p-96539-rldwd7",
+          "note": "設備・契約形態未確認。築62年・木造"
+        }
+      ]
+    },
+    {
+      "name": "田園調布本町戸建",
+      "area": "大田区田園調布本町",
+      "station": "沼部駅徒歩8分",
+      "rooms": [
+        {
+          "id": "denenchofu-honmachi-kodate",
+          "room": "",
+          "layout": "2DK",
+          "size": 55.9,
+          "rent": 13.8,
+          "fee": 0.0,
+          "total": 13.8,
+          "kamata_min": "約20分",
+          "status": "予備",
+          "change": "新規 11/19",
+          "expiry": null,
+          "source": "おせっかい不動産",
+          "url": "https://family.osekkai-rooms.jp/properties/p-96531-f7iuac",
+          "note": "築77年・木造戸建。設備・契約形態未確認"
+        }
+      ]
+    },
+    {
+      "name": "五反野スカイハイツ",
+      "area": "足立区中央本町",
+      "station": "五反野駅徒歩12分",
+      "rooms": [
+        {
+          "id": "gotanno-skyheights-305",
+          "room": "305号室",
+          "layout": "2LDK",
+          "size": 54.34,
+          "rent": 12.0,
+          "fee": 1.0,
+          "total": 13.0,
+          "kamata_min": "約55〜60分",
+          "status": "要問合せ",
+          "change": "新規 11/19",
+          "expiry": null,
+          "source": "おせっかい不動産",
+          "url": "https://family.osekkai-rooms.jp/properties/p-92053-uxyq6c",
+          "note": "設備・契約形態未確認。築50年。蒲田まで乗換2回"
+        }
+      ]
+    },
+    {
+      "name": "グランシャリオ平和台",
+      "area": "練馬区北町",
+      "station": "平和台駅徒歩9分",
+      "rooms": [
+        {
+          "id": "grand-chariot-heiwadai-103",
+          "room": "103号室",
+          "layout": "2DK",
+          "size": 47.69,
+          "rent": 11.0,
+          "fee": 0.1,
+          "total": 11.1,
+          "kamata_min": "約55〜60分",
+          "status": "要問合せ",
+          "change": "新規 11/19",
+          "expiry": null,
+          "source": "おせっかい不動産",
+          "url": "https://family.osekkai-rooms.jp/properties/p-97901-ntjaxf",
+          "note": "設備・契約形態未確認。築30年"
         }
       ]
     }
