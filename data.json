@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "buildings": [
     {
       "name": "ドミール田園調布",
@@ -108,7 +108,7 @@
           "total": 12.3,
           "kamata_min": "約16分",
           "status": "要問合せ",
-          "change": "情報更新",
+          "change": null,
           "expiry": null,
           "source": "SUUMO",
           "url": "https://suumo.jp/chintai/jnc_000111000690/",
@@ -292,7 +292,7 @@
           "total": 10.2,
           "kamata_min": "約15〜20分",
           "status": "要問合せ",
-          "change": "情報更新",
+          "change": null,
           "expiry": null,
           "source": "SUUMO",
           "url": "https://suumo.jp/chintai/jnc_000110942624/",
@@ -315,7 +315,7 @@
           "total": 13.3,
           "kamata_min": "約15〜20分",
           "status": "要問合せ",
-          "change": "情報更新",
+          "change": null,
           "expiry": null,
           "source": "SUUMO",
           "url": "https://suumo.jp/chintai/jnc_000110980837/",
@@ -385,7 +385,7 @@
           "kamata_min": "約25分",
           "status": "要問合せ",
           "change": "情報更新",
-          "expiry": "2026-12-03",
+          "expiry": "2026-12-04",
           "source": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100525649014/",
           "note": "コンロ2口以上・普通借家2年あり、独立洗面台・ウォシュレット未確認、プロパンガス"
@@ -400,7 +400,7 @@
           "total": 9.3,
           "kamata_min": "約30分",
           "status": "要問合せ",
-          "change": "情報更新",
+          "change": null,
           "expiry": "2026-12-04",
           "source": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100525417712/",
@@ -508,7 +508,7 @@
           "total": 11.7,
           "kamata_min": "約50分",
           "status": "要問合せ",
-          "change": "情報更新",
+          "change": null,
           "expiry": "2026-11-23",
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/room/c609948d5e6fe01736a5440b802df5f2bd4d43b9/",
@@ -554,7 +554,7 @@
           "total": 11.3,
           "kamata_min": "約40分",
           "status": "要問合せ",
-          "change": "情報更新",
+          "change": null,
           "expiry": null,
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/room/f2ddbd716c8b4b40fbe8144c058d7add803b6d92/",
@@ -706,22 +706,6 @@
       "station": "矢口渡駅徒歩4分",
       "rooms": [
         {
-          "id": "crescent-heim-4f",
-          "room": "4階",
-          "layout": "2DK",
-          "size": 42.0,
-          "rent": 11.0,
-          "fee": 0.5,
-          "total": 11.5,
-          "kamata_min": "徒歩約15分",
-          "status": "要問合せ",
-          "change": null,
-          "expiry": null,
-          "source": "HOME'S",
-          "url": "https://www.homes.co.jp/chintai/room/3705a16e7d0abadc7289aa700040fa8ce8ec0764/",
-          "note": "独立洗面台あり、ウォシュレット・ガスコンロ・契約形態未確認"
-        },
-        {
           "id": "crescent-heim-4f-b",
           "room": "4階",
           "layout": "2DK",
@@ -731,7 +715,7 @@
           "total": 12.5,
           "kamata_min": "徒歩約15分",
           "status": "要問合せ",
-          "change": "別部屋追加",
+          "change": null,
           "expiry": null,
           "source": "ニフティ",
           "url": "https://myhome.nifty.com/rent/tokyo/otaku_ct/higashiyaguchi_tw/2/",
@@ -823,34 +807,11 @@
           "total": 10.0,
           "kamata_min": "約45〜50分",
           "status": "要問合せ",
-          "change": null,
-          "expiry": "2026-11-21",
+          "change": "情報更新",
+          "expiry": "2026-11-27",
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/b-01432080083727/",
           "note": "設備は全条件クリア（ガス3口・独立洗面台・ウォシュレット）、契約形態の明記なし"
-        }
-      ]
-    },
-    {
-      "name": "ユニーブル宮崎台",
-      "area": "川崎市宮前区梶ケ谷1474-1",
-      "station": "宮崎台駅徒歩22分",
-      "rooms": [
-        {
-          "id": "unible-miyazakidai-105",
-          "room": "105号室",
-          "layout": "2LDK",
-          "size": 52.07,
-          "rent": 8.7,
-          "fee": 0.7,
-          "total": 9.4,
-          "kamata_min": "約55〜60分",
-          "status": "要問合せ",
-          "change": "情報更新",
-          "expiry": "2026-11-26",
-          "source": "HOME'S",
-          "url": "https://www.homes.co.jp/chintai/b-01432080083615/",
-          "note": "独立洗面台・ガス3口あり、ウォシュレット・契約形態未確認"
         }
       ]
     },
@@ -869,7 +830,7 @@
           "total": 9.2,
           "kamata_min": "約55〜60分",
           "status": "要問合せ",
-          "change": "情報更新",
+          "change": null,
           "expiry": "2026-11-24",
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/b-01432080083621/",
@@ -915,7 +876,7 @@
           "total": 14.0,
           "kamata_min": "約50〜55分",
           "status": "全条件クリア",
-          "change": "情報更新",
+          "change": null,
           "expiry": "2026-11-30",
           "source": "住まい探しの窓口",
           "url": "https://www.sumaisagashi-madoguchi.com/search/properties_iel000039_5679434/",
@@ -961,7 +922,7 @@
           "total": 11.0,
           "kamata_min": "約55〜60分",
           "status": "要問合せ",
-          "change": "情報更新",
+          "change": null,
           "expiry": "2026-11-30",
           "source": "住まい探しの窓口",
           "url": "https://www.sumaisagashi-madoguchi.com/search/properties_iel000045_5682854/",
@@ -989,29 +950,6 @@
           "source": "Instagram（ワンダー）",
           "url": "https://www.instagram.com/p/DfyQdi_DnYz/",
           "note": "独立洗面台確認済み、管理費・ウォシュレット・入居可能時期未確認"
-        }
-      ]
-    },
-    {
-      "name": "駒沢公園ハイツ",
-      "area": "世田谷区駒沢5-4-12",
-      "station": "駒沢大学駅徒歩17分",
-      "rooms": [
-        {
-          "id": "komazawa-park-heights-401",
-          "room": "401号室",
-          "layout": "2DK",
-          "size": 36.45,
-          "rent": 11.7,
-          "fee": 0.5,
-          "total": 12.2,
-          "kamata_min": "約40〜45分",
-          "status": "要問合せ",
-          "change": null,
-          "expiry": null,
-          "source": "Instagram（コンニチハトーキョー）",
-          "url": "https://www.instagram.com/p/DetZyqlo7Tb/",
-          "note": "独立洗面台・ウォシュレット確認済み、ガス／IH・借家種別・募集状況未確認"
         }
       ]
     },
@@ -1053,7 +991,7 @@
           "total": 13.2,
           "kamata_min": "約50分",
           "status": "予備",
-          "change": "情報更新",
+          "change": null,
           "expiry": "2026-11-30",
           "source": "住まい探しの窓口",
           "url": "https://www.sumaisagashi-madoguchi.com/search/properties_iel000039_5824074/",
@@ -1260,6 +1198,22 @@
           "source": "アットホーム",
           "url": "https://www.athome.co.jp/bldg-library/tokyo/ota/11345167/",
           "note": "独立洗面台・ウォシュレットあり、ガス／IH・借家種別未確認"
+        },
+        {
+          "id": "maison-de-kugahara-204",
+          "room": "204号室",
+          "layout": "2DK",
+          "size": 40.0,
+          "rent": 12.0,
+          "fee": 0.5,
+          "total": 12.5,
+          "kamata_min": "約15〜20分",
+          "status": "要問合せ",
+          "change": "別部屋追加",
+          "expiry": null,
+          "source": "アットホーム",
+          "url": "https://www.athome.co.jp/chintai/1154277537/",
+          "note": "独立洗面台・ガス2口・都市ガス・契約期間2年あり、ウォシュレット未確認。入居2026年12月25日予定"
         }
       ]
     },
@@ -1347,7 +1301,7 @@
           "total": 13.3,
           "kamata_min": "約15〜20分",
           "status": "要問合せ",
-          "change": "新規 11/19",
+          "change": null,
           "expiry": null,
           "source": "おせっかい不動産",
           "url": "https://family.osekkai-rooms.jp/properties/p-97801-bo2iry",
@@ -1370,7 +1324,7 @@
           "total": 12.0,
           "kamata_min": "約30〜35分",
           "status": "要問合せ",
-          "change": "新規 11/19",
+          "change": null,
           "expiry": null,
           "source": "おせっかい不動産",
           "url": "https://family.osekkai-rooms.jp/properties/p-97813-zrfyxv",
@@ -1393,7 +1347,7 @@
           "total": 10.0,
           "kamata_min": "約30〜35分",
           "status": "要問合せ",
-          "change": "新規 11/19",
+          "change": null,
           "expiry": null,
           "source": "おせっかい不動産",
           "url": "https://family.osekkai-rooms.jp/properties/p-96539-rldwd7",
@@ -1416,7 +1370,7 @@
           "total": 13.8,
           "kamata_min": "約20分",
           "status": "予備",
-          "change": "新規 11/19",
+          "change": null,
           "expiry": null,
           "source": "おせっかい不動産",
           "url": "https://family.osekkai-rooms.jp/properties/p-96531-f7iuac",
@@ -1439,7 +1393,7 @@
           "total": 13.0,
           "kamata_min": "約55〜60分",
           "status": "要問合せ",
-          "change": "新規 11/19",
+          "change": null,
           "expiry": null,
           "source": "おせっかい不動産",
           "url": "https://family.osekkai-rooms.jp/properties/p-92053-uxyq6c",
@@ -1462,11 +1416,80 @@
           "total": 11.1,
           "kamata_min": "約55〜60分",
           "status": "要問合せ",
-          "change": "新規 11/19",
+          "change": null,
           "expiry": null,
           "source": "おせっかい不動産",
           "url": "https://family.osekkai-rooms.jp/properties/p-97901-ntjaxf",
           "note": "設備・契約形態未確認。築30年"
+        }
+      ]
+    },
+    {
+      "name": "シー・グレース",
+      "area": "大田区大森南",
+      "station": "梅屋敷駅徒歩15分",
+      "rooms": [
+        {
+          "id": "sea-grace-402",
+          "room": "402号室",
+          "layout": "2DK",
+          "size": 50.03,
+          "rent": 13.1,
+          "fee": 0.66,
+          "total": 13.76,
+          "kamata_min": "約20〜25分",
+          "status": "要問合せ",
+          "change": "新規 11/20",
+          "expiry": null,
+          "source": "おせっかい不動産",
+          "url": "https://family.osekkai-rooms.jp/properties/p-95082-h80gva",
+          "note": "設備・契約形態未確認。築21年・鉄筋コンクリート造。入居2026年11月中旬"
+        }
+      ]
+    },
+    {
+      "name": "エクレール上池台",
+      "area": "大田区中馬込",
+      "station": "長原駅徒歩11分",
+      "rooms": [
+        {
+          "id": "eclaire-kamiikedai-606",
+          "room": "606号室",
+          "layout": "2DK",
+          "size": 45.1,
+          "rent": 12.8,
+          "fee": 0.8,
+          "total": 13.6,
+          "kamata_min": "約30〜35分",
+          "status": "要問合せ",
+          "change": "新規 11/20",
+          "expiry": null,
+          "source": "おせっかい不動産",
+          "url": "https://family.osekkai-rooms.jp/properties/p-91669-dyjfpu",
+          "note": "設備・契約形態未確認。築30年・鉄筋コンクリート造。入居2027年1月下旬"
+        }
+      ]
+    },
+    {
+      "name": "ガーデンヒルズ壱番館",
+      "area": "大田区上池台",
+      "station": "西馬込駅徒歩12分",
+      "rooms": [
+        {
+          "id": "garden-hills-ichibankan-303",
+          "room": "303号室",
+          "layout": "2DK",
+          "size": 40.5,
+          "rent": 11.7,
+          "fee": 1.0,
+          "total": 12.7,
+          "kamata_min": "約35〜40分",
+          "status": "要問合せ",
+          "change": "新規 11/20",
+          "expiry": null,
+          "source": "エイブル",
+          "url": "https://www.able.co.jp/tokyo/ensen/103113004/list/2k/",
+          "note": "バス・トイレ別のみ確認、その他設備・契約未確認。築33年。情報登録日2026/11/20"
         }
       ]
     }
