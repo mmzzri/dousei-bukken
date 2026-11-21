@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "buildings": [
     {
       "name": "ドミール田園調布",
@@ -384,7 +384,7 @@
           "total": 9.3,
           "kamata_min": "約25分",
           "status": "要問合せ",
-          "change": "情報更新",
+          "change": null,
           "expiry": "2026-12-04",
           "source": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100525649014/",
@@ -432,68 +432,6 @@
       ]
     },
     {
-      "name": "クレストオクト",
-      "area": "大田区西糀谷",
-      "station": null,
-      "rooms": [
-        {
-          "id": "crest-octo",
-          "room": "",
-          "layout": "2DK",
-          "size": 46.47,
-          "rent": 12.7,
-          "fee": 0.3,
-          "total": 13.0,
-          "kamata_min": null,
-          "status": "要問合せ",
-          "change": null,
-          "expiry": null,
-          "source": "HOME'S",
-          "url": "https://www.homes.co.jp/chintai/room/a0a7856b83adf0941fda2abbc5e0f21ad5ea9c77/",
-          "note": "契約形態未確認"
-        }
-      ]
-    },
-    {
-      "name": "ベル・シエラ",
-      "area": "大田区南蒲田",
-      "station": "京急蒲田駅徒歩5分",
-      "rooms": [
-        {
-          "id": "belle-sierra-502",
-          "room": "502号室",
-          "layout": "2DK",
-          "size": 45.29,
-          "rent": 12.0,
-          "fee": 0.8,
-          "total": 12.8,
-          "kamata_min": null,
-          "status": "要問合せ",
-          "change": null,
-          "expiry": null,
-          "source": "アットホーム",
-          "url": "https://www.athome.co.jp/bldg-library/tokyo/ota/1112628/",
-          "note": "独立洗面台あり、ウォシュレット・ガス口数・契約形態未確認"
-        },
-        {
-          "id": "belle-sierra-303",
-          "room": "303号室",
-          "layout": "2DK",
-          "size": 37.44,
-          "rent": 10.4,
-          "fee": 0.6,
-          "total": 11.0,
-          "kamata_min": null,
-          "status": "要問合せ",
-          "change": null,
-          "expiry": null,
-          "source": "アットホーム",
-          "url": "https://www.athome.co.jp/bldg-library/tokyo/ota/1112628/",
-          "note": "独立洗面台あり、ウォシュレット・ガス口数・契約形態未確認"
-        }
-      ]
-    },
-    {
       "name": "ソフィア野川",
       "area": "川崎市宮前区西野川3丁目19-18",
       "station": "武蔵小杉駅バス21分",
@@ -536,29 +474,6 @@
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/room/eebbe38e6589e9b238556cb227624f64c75247b2/",
           "note": "ガス・独立洗面台・普通契約2年あり、ウォシュレット未確認"
-        }
-      ]
-    },
-    {
-      "name": "グランヴェール上池台",
-      "area": "大田区上池台",
-      "station": "西馬込駅徒歩10分",
-      "rooms": [
-        {
-          "id": "grandvert-kamiikedai-101",
-          "room": "101号室",
-          "layout": "2DK",
-          "size": 43.6,
-          "rent": 11.0,
-          "fee": 0.3,
-          "total": 11.3,
-          "kamata_min": "約40分",
-          "status": "要問合せ",
-          "change": null,
-          "expiry": null,
-          "source": "HOME'S",
-          "url": "https://www.homes.co.jp/chintai/room/f2ddbd716c8b4b40fbe8144c058d7add803b6d92/",
-          "note": "ガス・ウォシュレット・独立洗面台・契約2年あり、コンロ口数未確認"
         }
       ]
     },
@@ -724,48 +639,25 @@
       ]
     },
     {
-      "name": "グランパ池上",
-      "area": "大田区池上",
-      "station": "池上駅徒歩9分",
-      "rooms": [
-        {
-          "id": "grandpa-ikegami-303",
-          "room": "303号室",
-          "layout": "2DK",
-          "size": 45.0,
-          "rent": 13.5,
-          "fee": 0.3,
-          "total": 13.8,
-          "kamata_min": "約15〜25分",
-          "status": "要問合せ",
-          "change": null,
-          "expiry": null,
-          "source": "HOME'S",
-          "url": "https://www.homes.co.jp/chintai/room/cf78196111233f9d041cfd5d0f8bae9e6967bec8/",
-          "note": "都市ガスのみ確認。独立洗面台・ウォシュレット・ガスコンロ・契約形態未確認"
-        }
-      ]
-    },
-    {
       "name": "洗足タウンハウス",
       "area": "大田区上池台",
       "station": "洗足池駅徒歩11分",
       "rooms": [
         {
-          "id": "senzoku-townhouse-2f",
+          "id": "senzoku-townhouse-2f-3dk",
           "room": "2階",
-          "layout": "2DK",
-          "size": 47.52,
+          "layout": "3DK",
+          "size": 42.98,
           "rent": 13.5,
           "fee": 0.3,
           "total": 13.8,
           "kamata_min": "約15〜20分",
           "status": "要問合せ",
-          "change": null,
+          "change": "別部屋追加",
           "expiry": null,
-          "source": "HOME'S",
-          "url": "https://www.homes.co.jp/chintai/room/46f95c592405a443b888bf57d723281e5726ae9d/",
-          "note": "システムキッチン・都市ガスあり。独立洗面台・ウォシュレット・ガスコンロ・契約形態未確認"
+          "source": "goo",
+          "url": "https://house.goo.ne.jp/rent/ap/detail/0/13111/6992698016/00340483/x06992698016.html?fr=ndetail",
+          "note": "バス・トイレ別のみ確認、独立洗面台・ウォシュレット・ガス口数・契約形態未確認。情報公開日2026/11/20"
         }
       ]
     },
@@ -808,7 +700,7 @@
           "kamata_min": "約45〜50分",
           "status": "要問合せ",
           "change": "情報更新",
-          "expiry": "2026-11-27",
+          "expiry": "2026-11-28",
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/b-01432080083727/",
           "note": "設備は全条件クリア（ガス3口・独立洗面台・ウォシュレット）、契約形態の明記なし"
@@ -1129,22 +1021,6 @@
       "station": "鷺沼駅バス15分",
       "rooms": [
         {
-          "id": "claire-saginuma-a-2f",
-          "room": "2階",
-          "layout": "2LDK",
-          "size": 52.75,
-          "rent": 9.5,
-          "fee": 0.65,
-          "total": 10.15,
-          "kamata_min": "約50〜55分",
-          "status": "要問合せ",
-          "change": null,
-          "expiry": null,
-          "source": "goo",
-          "url": "https://house.goo.ne.jp/rent/ap/special/1027/ensen/324/2324140.html",
-          "note": "設備・契約未確認"
-        },
-        {
           "id": "claire-saginuma-a-1f",
           "room": "1階",
           "layout": "2LDK",
@@ -1209,7 +1085,7 @@
           "total": 12.5,
           "kamata_min": "約15〜20分",
           "status": "要問合せ",
-          "change": "別部屋追加",
+          "change": null,
           "expiry": null,
           "source": "アットホーム",
           "url": "https://www.athome.co.jp/chintai/1154277537/",
@@ -1439,7 +1315,7 @@
           "total": 13.76,
           "kamata_min": "約20〜25分",
           "status": "要問合せ",
-          "change": "新規 11/20",
+          "change": null,
           "expiry": null,
           "source": "おせっかい不動産",
           "url": "https://family.osekkai-rooms.jp/properties/p-95082-h80gva",
@@ -1462,7 +1338,7 @@
           "total": 13.6,
           "kamata_min": "約30〜35分",
           "status": "要問合せ",
-          "change": "新規 11/20",
+          "change": null,
           "expiry": null,
           "source": "おせっかい不動産",
           "url": "https://family.osekkai-rooms.jp/properties/p-91669-dyjfpu",
@@ -1485,11 +1361,310 @@
           "total": 12.7,
           "kamata_min": "約35〜40分",
           "status": "要問合せ",
-          "change": "新規 11/20",
+          "change": null,
           "expiry": null,
           "source": "エイブル",
           "url": "https://www.able.co.jp/tokyo/ensen/103113004/list/2k/",
           "note": "バス・トイレ別のみ確認、その他設備・契約未確認。築33年。情報登録日2026/11/20"
+        }
+      ]
+    },
+    {
+      "name": "ヴェルドール芳花園",
+      "area": "大田区仲池上1丁目",
+      "station": "西馬込駅徒歩10分",
+      "rooms": [
+        {
+          "id": "verdore-hoshikaen-3f",
+          "room": "3階",
+          "layout": "2DK",
+          "size": 38.38,
+          "rent": 12.5,
+          "fee": 0.7,
+          "total": 13.2,
+          "kamata_min": "約30〜35分",
+          "status": "要問合せ",
+          "change": "新規 11/21",
+          "expiry": null,
+          "source": "いい部屋ネット",
+          "url": "https://www.eheya.net/tokyo/area/13111/search/?highlight_property_full_id=300001013274679000001",
+          "note": "独立洗面台あり、ウォシュレット・ガス口数・契約形態未確認"
+        }
+      ]
+    },
+    {
+      "name": "池上台コーポ",
+      "area": "大田区池上1丁目",
+      "station": "西馬込駅徒歩9分",
+      "rooms": [
+        {
+          "id": "ikegamidai-corpo-2f",
+          "room": "2階/2-B",
+          "layout": "2DK",
+          "size": 38.43,
+          "rent": 11.6,
+          "fee": 0.0,
+          "total": 11.6,
+          "kamata_min": "約30〜35分",
+          "status": "要問合せ",
+          "change": "新規 11/21",
+          "expiry": null,
+          "source": "いい部屋ネット",
+          "url": "https://www.eheya.net/tokyo/area/13111/search/?highlight_property_full_id=300001013286251000001",
+          "note": "設備・契約形態未確認"
+        }
+      ]
+    },
+    {
+      "name": "タウンハウス",
+      "area": "大田区上池台1丁目",
+      "station": "長原駅徒歩7分",
+      "rooms": [
+        {
+          "id": "townhouse-203",
+          "room": "203号室",
+          "layout": "2DK",
+          "size": 38.94,
+          "rent": 13.0,
+          "fee": 0.2,
+          "total": 13.2,
+          "kamata_min": "約30分",
+          "status": "要問合せ",
+          "change": "新規 11/21",
+          "expiry": null,
+          "source": "いい部屋ネット",
+          "url": "https://www.eheya.net/tokyo/area/13111/search/?highlight_property_full_id=300001013285792000001",
+          "note": "設備・契約形態未確認"
+        }
+      ]
+    },
+    {
+      "name": "コーズ第二エイト大森",
+      "area": "大田区大森本町1丁目",
+      "station": "大森海岸駅徒歩5分",
+      "rooms": [
+        {
+          "id": "cause-2nd-eight-omori-2f",
+          "room": "2階",
+          "layout": "2DK",
+          "size": 38.61,
+          "rent": 12.5,
+          "fee": 0.0,
+          "total": 12.5,
+          "kamata_min": "約15分",
+          "status": "要問合せ",
+          "change": "新規 11/21",
+          "expiry": null,
+          "source": "いい部屋ネット",
+          "url": "https://www.eheya.net/category/twodk/kanagawa/station/22566/search/",
+          "note": "設備・契約形態未確認"
+        }
+      ]
+    },
+    {
+      "name": "コーポハラブン",
+      "area": "大田区下丸子2丁目",
+      "station": "武蔵新田駅徒歩8分",
+      "rooms": [
+        {
+          "id": "corpo-harabun-2f",
+          "room": "2階",
+          "layout": "2DK",
+          "size": 40.7,
+          "rent": 11.0,
+          "fee": 0.0,
+          "total": 11.0,
+          "kamata_min": "約20分",
+          "status": "要問合せ",
+          "change": "新規 11/21",
+          "expiry": null,
+          "source": "いい部屋ネット",
+          "url": "http://eheya.net/tokyo/area/13111/search/?house_plan=1LDK&house_plan=2DK&house_plan=2K&house_plan=2LDK&price_from=110000&price_to=145000",
+          "note": "設備・契約形態未確認"
+        }
+      ]
+    },
+    {
+      "name": "ピアーチェウチムラパート2",
+      "area": "大田区西糀谷4丁目",
+      "station": "糀谷駅徒歩3分",
+      "rooms": [
+        {
+          "id": "piace-uchimura-part2-201",
+          "room": "201号室",
+          "layout": "2DK",
+          "size": 42.14,
+          "rent": 13.5,
+          "fee": 0.0,
+          "total": 13.5,
+          "kamata_min": "約10分",
+          "status": "要問合せ",
+          "change": "新規 11/21",
+          "expiry": null,
+          "source": "ハウスコム",
+          "url": "https://www.housecom.jp/build_5814773/",
+          "note": "バス・トイレ別のみ確認、独立洗面台・ウォシュレット・ガス口数・契約形態未確認"
+        }
+      ]
+    },
+    {
+      "name": "パステルフジ",
+      "area": "大田区西馬込1丁目",
+      "station": "西馬込駅徒歩7分",
+      "rooms": [
+        {
+          "id": "pastel-fuji-2f",
+          "room": "2階",
+          "layout": "2DK",
+          "size": 35.0,
+          "rent": 10.0,
+          "fee": 0.2,
+          "total": 10.2,
+          "kamata_min": "約30〜35分",
+          "status": "要問合せ",
+          "change": "新規 11/21",
+          "expiry": null,
+          "source": "バレッグス",
+          "url": "https://balleggs.co.jp/fudo/%e5%a4%a7%e7%94%b0%e5%8c%ba%e8%a5%bf%e9%a6%ac%e8%be%bc1%e4%b8%81%e7%9b%ae-%e3%80%90%e8%b3%83%e8%b2%b8%e5%b1%85%e4%bd%8f%e3%80%91%e3%82%a2%e3%83%91%e3%83%bc%e3%83%88-3/",
+          "note": "独立洗面台・普通借家2年あり、ウォシュレット・ガス口数未確認。面積は35.00㎡（他サイトで33〜36.45㎡と表記ゆれあり）"
+        }
+      ]
+    },
+    {
+      "name": "アネックス山崎",
+      "area": "大田区大森中2丁目",
+      "station": "京急蒲田駅徒歩13分",
+      "rooms": [
+        {
+          "id": "annex-yamazaki-303",
+          "room": "303号室",
+          "layout": "2DK",
+          "size": 34.77,
+          "rent": 9.7,
+          "fee": 0.0,
+          "total": 9.7,
+          "kamata_min": "約20分",
+          "status": "要問合せ",
+          "change": "新規 11/21",
+          "expiry": null,
+          "source": "いい部屋ネット",
+          "url": "https://www.eheya.net/category/twodk/kanagawa/station/22660/search/",
+          "note": "設備・契約形態未確認"
+        }
+      ]
+    },
+    {
+      "name": "ハイツアオキ第12",
+      "area": "大田区蒲田1丁目",
+      "station": "京急蒲田駅徒歩12分",
+      "rooms": [
+        {
+          "id": "heights-aoki-12-5f",
+          "room": "5階",
+          "layout": "2DK",
+          "size": 44.95,
+          "rent": 10.8,
+          "fee": 0.85,
+          "total": 11.65,
+          "kamata_min": "約20分",
+          "status": "要問合せ",
+          "change": "新規 11/21",
+          "expiry": null,
+          "source": "いい部屋ネット",
+          "url": "https://www.eheya.net/category/twodk/kanagawa/station/22660/search/",
+          "note": "設備・契約形態未確認"
+        }
+      ]
+    },
+    {
+      "name": "MCビル",
+      "area": "大田区西蒲田7丁目",
+      "station": "蓮沼駅徒歩1分",
+      "rooms": [
+        {
+          "id": "mc-bldg-3f",
+          "room": "3階",
+          "layout": "2DK",
+          "size": 38.06,
+          "rent": 13.0,
+          "fee": 0.0,
+          "total": 13.0,
+          "kamata_min": "約15分",
+          "status": "要問合せ",
+          "change": "新規 11/21",
+          "expiry": null,
+          "source": "いい部屋ネット",
+          "url": "https://www.eheya.net/category/twodk/kanagawa/station/22660/search/",
+          "note": "設備・契約形態未確認。築56年（他表記では築59年）"
+        }
+      ]
+    },
+    {
+      "name": "エクセレンスコミヤ",
+      "area": "大田区大森西2丁目",
+      "station": "平和島駅徒歩10分",
+      "rooms": [
+        {
+          "id": "excellence-komiya-2f",
+          "room": "2階",
+          "layout": "2DK",
+          "size": 38.0,
+          "rent": 10.0,
+          "fee": 0.0,
+          "total": 10.0,
+          "kamata_min": "約20分",
+          "status": "要問合せ",
+          "change": "新規 11/21",
+          "expiry": null,
+          "source": "いい部屋ネット",
+          "url": "https://www.eheya.net/category/twodk/kanagawa/station/22660/search/",
+          "note": "設備・契約形態未確認"
+        }
+      ]
+    },
+    {
+      "name": "セジュール大岡山",
+      "area": "大田区南千束3丁目",
+      "station": "大岡山駅徒歩9分",
+      "rooms": [
+        {
+          "id": "sejour-okayama-2f",
+          "room": "2階",
+          "layout": "2DK",
+          "size": 36.44,
+          "rent": 10.0,
+          "fee": 0.0,
+          "total": 10.0,
+          "kamata_min": "約35〜40分",
+          "status": "要問合せ",
+          "change": "新規 11/21",
+          "expiry": null,
+          "source": "ハウスコム",
+          "url": "https://www.housecom.jp/build_5812185/",
+          "note": "バス・トイレ別のみ確認、独立洗面台・ウォシュレット・ガス口数・契約形態未確認。部屋番号未特定（6件空室あり）"
+        }
+      ]
+    },
+    {
+      "name": "エテルノ アンⅡ",
+      "area": "川崎市宮前区西野川3丁目",
+      "station": "武蔵中原駅バス18分",
+      "rooms": [
+        {
+          "id": "eterno-an-2-1f",
+          "room": "1階",
+          "layout": "2LDK",
+          "size": 49.6,
+          "rent": 11.3,
+          "fee": 0.41,
+          "total": 11.71,
+          "kamata_min": "約50〜55分",
+          "status": "予備",
+          "change": "新規 11/21",
+          "expiry": null,
+          "source": "いい部屋ネット",
+          "url": "http://eheya.net/category/dk-select/kanagawa/station/search/?original_line_id=8176cb7540e08&original_station_id=8053b2b6e2c7c&original_station_id=8053b2b6e3078&original_station_id=8053b2b6e3460&original_station_id=8053b2b6e385c&val_code=23343&val_code=23345&val_code=23347&val_code=23348",
+          "note": "設備・契約形態未確認。バス前提のため予備"
         }
       ]
     }
