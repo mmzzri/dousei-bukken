@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "buildings": [
     {
       "name": "ドミール田園調布",
@@ -400,8 +400,8 @@
           "total": 9.3,
           "kamata_min": "約30分",
           "status": "要問合せ",
-          "change": null,
-          "expiry": "2026-12-04",
+          "change": "情報更新",
+          "expiry": "2026-12-05",
           "source": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100525417712/",
           "note": "プロパンガス・ガスコンロ対応、独立洗面台・ウォシュレット未確認"
@@ -446,8 +446,8 @@
           "total": 11.7,
           "kamata_min": "約50分",
           "status": "要問合せ",
-          "change": null,
-          "expiry": "2026-11-23",
+          "change": "情報更新",
+          "expiry": "2026-11-29",
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/room/c609948d5e6fe01736a5440b802df5f2bd4d43b9/",
           "note": "独立洗面台・ウォシュレット・普通契約2年あり、コンロ種別・口数未確認"
@@ -469,11 +469,11 @@
           "total": 11.8,
           "kamata_min": "約50〜55分",
           "status": "要問合せ",
-          "change": null,
+          "change": "情報更新",
           "expiry": null,
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/room/eebbe38e6589e9b238556cb227624f64c75247b2/",
-          "note": "ガス・独立洗面台・普通契約2年あり、ウォシュレット未確認"
+          "note": "ガス・独立洗面台・ウォシュレット・普通契約2年あり"
         }
       ]
     },
@@ -570,29 +570,6 @@
       ]
     },
     {
-      "name": "フローエハウス",
-      "area": "大田区西蒲田",
-      "station": "蒲田駅徒歩13分",
-      "rooms": [
-        {
-          "id": "floe-house-101",
-          "room": "101号室",
-          "layout": "2DK",
-          "size": 39.66,
-          "rent": 9.8,
-          "fee": 0.2,
-          "total": 10.0,
-          "kamata_min": "徒歩約13分",
-          "status": "要問合せ",
-          "change": null,
-          "expiry": null,
-          "source": "HOME'S",
-          "url": "https://www.homes.co.jp/chintai/room/95829c2e85bb86de7b63f206cc034987dde2b171/",
-          "note": "ウォシュレットあり、独立洗面台・ガスコンロ・契約形態未確認"
-        }
-      ]
-    },
-    {
       "name": "矢口ブラウンハイツ",
       "area": "大田区矢口",
       "station": "武蔵新田駅徒歩2分",
@@ -653,7 +630,7 @@
           "total": 13.8,
           "kamata_min": "約15〜20分",
           "status": "要問合せ",
-          "change": "別部屋追加",
+          "change": null,
           "expiry": null,
           "source": "goo",
           "url": "https://house.goo.ne.jp/rent/ap/detail/0/13111/6992698016/00340483/x06992698016.html?fr=ndetail",
@@ -699,7 +676,7 @@
           "total": 10.0,
           "kamata_min": "約45〜50分",
           "status": "要問合せ",
-          "change": "情報更新",
+          "change": null,
           "expiry": "2026-11-28",
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/b-01432080083727/",
@@ -722,8 +699,8 @@
           "total": 9.2,
           "kamata_min": "約55〜60分",
           "status": "要問合せ",
-          "change": null,
-          "expiry": "2026-11-24",
+          "change": "情報更新",
+          "expiry": "2026-11-29",
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/b-01432080083621/",
           "note": "独立洗面台あり、ガス・ウォシュレット・契約形態未確認"
@@ -773,29 +750,6 @@
           "source": "住まい探しの窓口",
           "url": "https://www.sumaisagashi-madoguchi.com/search/properties_iel000039_5679434/",
           "note": "ガス3口・独立洗面台・ウォシュレット・普通契約2年確認済み"
-        }
-      ]
-    },
-    {
-      "name": "ガーデンヒルズ",
-      "area": "川崎市宮前区土橋1丁目",
-      "station": "宮前平駅徒歩9分",
-      "rooms": [
-        {
-          "id": "garden-hills",
-          "room": "",
-          "layout": "2LDK",
-          "size": 47.5,
-          "rent": 13.0,
-          "fee": 0.4,
-          "total": 13.4,
-          "kamata_min": "約40〜45分",
-          "status": "要問合せ",
-          "change": null,
-          "expiry": "2026-11-20",
-          "source": "住まい探しの窓口",
-          "url": "https://www.sumaisagashi-madoguchi.com/search/properties_iel000143_920815/",
-          "note": "独立洗面台・ウォシュレット・普通契約2年あり。備え付けコンロはIHのためガス栓の有無は要確認"
         }
       ]
     },
@@ -922,8 +876,8 @@
           "total": 10.65,
           "kamata_min": "約55〜60分",
           "status": "要問合せ",
-          "change": null,
-          "expiry": "2026-11-23",
+          "change": "情報更新",
+          "expiry": "2026-11-29",
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/b-1432080083791/",
           "note": "ガス3口・独立洗面台・ウォシュレットあり、借家種別未確認。入居2026年12月中旬"
@@ -1119,7 +1073,7 @@
     {
       "name": "ドルチェ鷺沼",
       "area": "川崎市宮前区鷺沼3丁目",
-      "station": null,
+      "station": "鷺沼駅徒歩3分",
       "rooms": [
         {
           "id": "dolce-saginuma",
@@ -1131,11 +1085,11 @@
           "total": 11.2,
           "kamata_min": "約40分",
           "status": "要問合せ",
-          "change": null,
+          "change": "情報更新",
           "expiry": null,
           "source": "goo",
           "url": "https://house.goo.ne.jp/rent/ap/detail/0/14136/1068343966/00511597/x01068343966.html",
-          "note": "設備・契約形態・駅徒歩未確認。情報公開日2026/11/17"
+          "note": "設備・契約形態未確認。築2024年3月。情報公開日2026/11/19"
         }
       ]
     },
@@ -1384,7 +1338,7 @@
           "total": 13.2,
           "kamata_min": "約30〜35分",
           "status": "要問合せ",
-          "change": "新規 11/21",
+          "change": null,
           "expiry": null,
           "source": "いい部屋ネット",
           "url": "https://www.eheya.net/tokyo/area/13111/search/?highlight_property_full_id=300001013274679000001",
@@ -1407,7 +1361,7 @@
           "total": 11.6,
           "kamata_min": "約30〜35分",
           "status": "要問合せ",
-          "change": "新規 11/21",
+          "change": null,
           "expiry": null,
           "source": "いい部屋ネット",
           "url": "https://www.eheya.net/tokyo/area/13111/search/?highlight_property_full_id=300001013286251000001",
@@ -1430,7 +1384,7 @@
           "total": 13.2,
           "kamata_min": "約30分",
           "status": "要問合せ",
-          "change": "新規 11/21",
+          "change": null,
           "expiry": null,
           "source": "いい部屋ネット",
           "url": "https://www.eheya.net/tokyo/area/13111/search/?highlight_property_full_id=300001013285792000001",
@@ -1453,7 +1407,7 @@
           "total": 12.5,
           "kamata_min": "約15分",
           "status": "要問合せ",
-          "change": "新規 11/21",
+          "change": null,
           "expiry": null,
           "source": "いい部屋ネット",
           "url": "https://www.eheya.net/category/twodk/kanagawa/station/22566/search/",
@@ -1476,7 +1430,7 @@
           "total": 11.0,
           "kamata_min": "約20分",
           "status": "要問合せ",
-          "change": "新規 11/21",
+          "change": null,
           "expiry": null,
           "source": "いい部屋ネット",
           "url": "http://eheya.net/tokyo/area/13111/search/?house_plan=1LDK&house_plan=2DK&house_plan=2K&house_plan=2LDK&price_from=110000&price_to=145000",
@@ -1499,7 +1453,7 @@
           "total": 13.5,
           "kamata_min": "約10分",
           "status": "要問合せ",
-          "change": "新規 11/21",
+          "change": null,
           "expiry": null,
           "source": "ハウスコム",
           "url": "https://www.housecom.jp/build_5814773/",
@@ -1522,7 +1476,7 @@
           "total": 10.2,
           "kamata_min": "約30〜35分",
           "status": "要問合せ",
-          "change": "新規 11/21",
+          "change": null,
           "expiry": null,
           "source": "バレッグス",
           "url": "https://balleggs.co.jp/fudo/%e5%a4%a7%e7%94%b0%e5%8c%ba%e8%a5%bf%e9%a6%ac%e8%be%bc1%e4%b8%81%e7%9b%ae-%e3%80%90%e8%b3%83%e8%b2%b8%e5%b1%85%e4%bd%8f%e3%80%91%e3%82%a2%e3%83%91%e3%83%bc%e3%83%88-3/",
@@ -1545,30 +1499,7 @@
           "total": 9.7,
           "kamata_min": "約20分",
           "status": "要問合せ",
-          "change": "新規 11/21",
-          "expiry": null,
-          "source": "いい部屋ネット",
-          "url": "https://www.eheya.net/category/twodk/kanagawa/station/22660/search/",
-          "note": "設備・契約形態未確認"
-        }
-      ]
-    },
-    {
-      "name": "ハイツアオキ第12",
-      "area": "大田区蒲田1丁目",
-      "station": "京急蒲田駅徒歩12分",
-      "rooms": [
-        {
-          "id": "heights-aoki-12-5f",
-          "room": "5階",
-          "layout": "2DK",
-          "size": 44.95,
-          "rent": 10.8,
-          "fee": 0.85,
-          "total": 11.65,
-          "kamata_min": "約20分",
-          "status": "要問合せ",
-          "change": "新規 11/21",
+          "change": null,
           "expiry": null,
           "source": "いい部屋ネット",
           "url": "https://www.eheya.net/category/twodk/kanagawa/station/22660/search/",
@@ -1591,7 +1522,7 @@
           "total": 13.0,
           "kamata_min": "約15分",
           "status": "要問合せ",
-          "change": "新規 11/21",
+          "change": null,
           "expiry": null,
           "source": "いい部屋ネット",
           "url": "https://www.eheya.net/category/twodk/kanagawa/station/22660/search/",
@@ -1614,7 +1545,7 @@
           "total": 10.0,
           "kamata_min": "約20分",
           "status": "要問合せ",
-          "change": "新規 11/21",
+          "change": null,
           "expiry": null,
           "source": "いい部屋ネット",
           "url": "https://www.eheya.net/category/twodk/kanagawa/station/22660/search/",
@@ -1637,7 +1568,7 @@
           "total": 10.0,
           "kamata_min": "約35〜40分",
           "status": "要問合せ",
-          "change": "新規 11/21",
+          "change": null,
           "expiry": null,
           "source": "ハウスコム",
           "url": "https://www.housecom.jp/build_5812185/",
@@ -1660,11 +1591,103 @@
           "total": 11.71,
           "kamata_min": "約50〜55分",
           "status": "予備",
-          "change": "新規 11/21",
+          "change": null,
           "expiry": null,
           "source": "いい部屋ネット",
           "url": "http://eheya.net/category/dk-select/kanagawa/station/search/?original_line_id=8176cb7540e08&original_station_id=8053b2b6e2c7c&original_station_id=8053b2b6e3078&original_station_id=8053b2b6e3460&original_station_id=8053b2b6e385c&val_code=23343&val_code=23345&val_code=23347&val_code=23348",
           "note": "設備・契約形態未確認。バス前提のため予備"
+        }
+      ]
+    },
+    {
+      "name": "ディアコート",
+      "area": "大田区新蒲田1丁目",
+      "station": "蒲田駅徒歩10分",
+      "rooms": [
+        {
+          "id": "diacourt-1f",
+          "room": "1階",
+          "layout": "2DK",
+          "size": 49.67,
+          "rent": 13.5,
+          "fee": 0.3,
+          "total": 13.8,
+          "kamata_min": "徒歩約10分",
+          "status": "要問合せ",
+          "change": "新規 11/22",
+          "expiry": null,
+          "source": "ニフティ",
+          "url": "https://myhome.nifty.com/rent/tokyo/kamata_st/?r3=22&ex3=1",
+          "note": "バス・トイレ別のみ確認、独立洗面台・ウォシュレット・ガス口数・契約形態未確認。築30年・鉄骨造"
+        }
+      ]
+    },
+    {
+      "name": "第一大黒ビル",
+      "area": "大田区多摩川2丁目",
+      "station": "蒲田駅徒歩21分",
+      "rooms": [
+        {
+          "id": "daiichi-daikoku-bldg-2f",
+          "room": "2階",
+          "layout": "2LDK",
+          "size": 46.06,
+          "rent": 13.0,
+          "fee": 0.8,
+          "total": 13.8,
+          "kamata_min": "徒歩約21分",
+          "status": "要問合せ",
+          "change": "新規 11/22",
+          "expiry": null,
+          "source": "ニフティ",
+          "url": "https://myhome.nifty.com/rent/ft_family/tokyo/kamata_st/5/",
+          "note": "バス・トイレ別・フローリング・オートロックのみ確認、独立洗面台・ウォシュレット・ガス口数・契約形態未確認。築35年・RC造"
+        }
+      ]
+    },
+    {
+      "name": "カサデうさぎ",
+      "area": "大田区多摩川1丁目",
+      "station": "蒲田駅徒歩18分",
+      "rooms": [
+        {
+          "id": "casade-usagi-3f",
+          "room": "3階",
+          "layout": "2LDK",
+          "size": 48.22,
+          "rent": 12.5,
+          "fee": 0.0,
+          "total": 12.5,
+          "kamata_min": "徒歩約18分",
+          "status": "要問合せ",
+          "change": "新規 11/22",
+          "expiry": null,
+          "source": "ニフティ",
+          "url": "https://myhome.nifty.com/rent/ft_family/tokyo/kamata_st/5/",
+          "note": "コンロ2口以上・バス・トイレ別確認済み、独立洗面台・ウォシュレット・契約形態未確認。築36年・鉄骨造"
+        }
+      ]
+    },
+    {
+      "name": "南馬込1丁目戸建",
+      "area": "大田区南馬込1丁目",
+      "station": "西馬込駅徒歩8分",
+      "rooms": [
+        {
+          "id": "minami-magome-1-kodate",
+          "room": "",
+          "layout": "2LDK",
+          "size": 46.59,
+          "rent": 14.0,
+          "fee": 0.0,
+          "total": 14.0,
+          "kamata_min": "約30〜35分",
+          "status": "要問合せ",
+          "change": "新規 11/22",
+          "expiry": "2026-11-29",
+          "source": "スモッカ",
+          "url": "https://smocca.jp/bukken/detail/z_2_e3b1533dc72894720adffe28657edf1b",
+          "note": "ガスコンロ対応・温水洗浄便座・洗面所独立・都市ガス・普通借家2年確認済み、コンロ口数未確認。築1984年・木造戸建、即入居可"
         }
       ]
     }
