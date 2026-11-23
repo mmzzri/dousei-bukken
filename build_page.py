@@ -81,6 +81,12 @@ TEMPLATE = r"""<!DOCTYPE html>
       <button class="chip star" id="starChip">★のみ</button>
       <button class="chip" id="tokyoChip">東京のみ</button>
     </div>
+    <div class="chips" id="changeChips">
+      <button class="chip on" data-change="">変更：すべて</button>
+      <button class="chip" data-change="new">新規のみ</button>
+      <button class="chip" data-change="room">別部屋追加のみ</button>
+      <button class="chip" data-change="upd">情報更新のみ</button>
+    </div>
     <input class="search" id="search" type="search" placeholder="建物名・エリア・駅で検索">
   </div>
 
@@ -156,8 +162,11 @@ function renderChanges(){
   document.getElementById("changes").innerHTML = any ? html : "<h2>今回の変更点</h2><div class='row'>変更はありません</div>";
 }
 
-let filterStatus = "", filterStar = false, filterText = "", filterTokyo = false;
+let filterStatus = "", filterStar = false, filterText = "", filterTokyo = false, filterChange = "";
 function roomMatches(b, r){
+  if (filterChange === "new" && !(r.change && r.change.startsWith("新規"))) return false;
+  if (filterChange === "room" && r.change !== "別部屋追加") return false;
+  if (filterChange === "upd" && r.change !== "情報更新") return false;
   if (filterTokyo && regionOf(b.area) !== "tokyo") return false;
   if (filterStatus && r.status !== filterStatus) return false;
   if (filterStar && !stars[r.id]) return false;
@@ -237,6 +246,14 @@ document.getElementById("statusChips").addEventListener("click", e => {
   document.querySelectorAll("#statusChips [data-status]").forEach(c => c.classList.remove("on"));
   btn.classList.add("on");
   filterStatus = btn.dataset.status;
+  renderList();
+});
+document.getElementById("changeChips").addEventListener("click", e => {
+  const btn = e.target.closest("[data-change]");
+  if (!btn) return;
+  document.querySelectorAll("#changeChips [data-change]").forEach(c => c.classList.remove("on"));
+  btn.classList.add("on");
+  filterChange = btn.dataset.change;
   renderList();
 });
 document.getElementById("starChip").addEventListener("click", e => {
