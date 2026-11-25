@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "buildings": [
     {
       "name": "ドミール田園調布",
@@ -400,7 +400,7 @@
           "total": 9.3,
           "kamata_min": "約30分",
           "status": "要問合せ",
-          "change": "情報更新",
+          "change": null,
           "expiry": "2026-12-07",
           "source": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100525417712/",
@@ -446,7 +446,7 @@
           "total": 11.7,
           "kamata_min": "約50分",
           "status": "要問合せ",
-          "change": "情報更新",
+          "change": null,
           "expiry": "2026-12-01",
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/room/c609948d5e6fe01736a5440b802df5f2bd4d43b9/",
@@ -653,7 +653,7 @@
           "total": 10.0,
           "kamata_min": "約45〜50分",
           "status": "要問合せ",
-          "change": "情報更新",
+          "change": null,
           "expiry": "2026-12-01",
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/b-01432080083727/",
@@ -676,7 +676,7 @@
           "total": 9.2,
           "kamata_min": "約55〜60分",
           "status": "要問合せ",
-          "change": "情報更新",
+          "change": null,
           "expiry": "2026-12-01",
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/b-01432080083621/",
@@ -1108,7 +1108,7 @@
           "total": 12.0,
           "kamata_min": "約30〜35分",
           "status": "要問合せ",
-          "change": "情報更新",
+          "change": null,
           "expiry": "2026-12-01",
           "source": "おせっかい不動産",
           "url": "https://family.osekkai-rooms.jp/properties/p-97813-zrfyxv",
@@ -1592,7 +1592,7 @@
           "kamata_min": "約30〜35分",
           "status": "要問合せ",
           "change": "情報更新",
-          "expiry": "2026-12-01",
+          "expiry": "2026-12-02",
           "source": "スモッカ",
           "url": "https://smocca.jp/bukken/detail/z_2_e3b1533dc72894720adffe28657edf1b",
           "note": "ガスコンロ対応・温水洗浄便座・洗面所独立・都市ガス・普通借家2年確認済み、コンロ口数未確認。築1984年・木造戸建、即入居可"
@@ -1775,7 +1775,7 @@
           "total": 13.5,
           "kamata_min": "約20分",
           "status": "要問合せ",
-          "change": "新規 11/24",
+          "change": null,
           "expiry": null,
           "source": "ニフティ",
           "url": "https://myhome.nifty.com/rent/ft_2ldk/tokyo/hasunuma_st/2/",
@@ -1798,7 +1798,7 @@
           "total": 9.2,
           "kamata_min": "約40〜45分",
           "status": "要問合せ",
-          "change": "新規 11/24",
+          "change": null,
           "expiry": null,
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/ltag/5843/kanagawa/tsudayama_00661-st/list/",
@@ -1821,7 +1821,7 @@
           "total": 11.4,
           "kamata_min": "約30分",
           "status": "要問合せ",
-          "change": "新規 11/24",
+          "change": null,
           "expiry": null,
           "source": "ニフティ",
           "url": "https://myhome.nifty.com/rent/tokyo/otaku_ct/omorihigashi_tw/5/",
@@ -1837,11 +1837,126 @@
           "total": 11.1,
           "kamata_min": "約30分",
           "status": "要問合せ",
-          "change": "新規 11/24",
+          "change": null,
           "expiry": null,
           "source": "ニフティ",
           "url": "https://myhome.nifty.com/rent/tokyo/otaku_ct/omorihigashi_tw/5/",
           "note": "バス・トイレ別・コンロ2口以上確認済み、独立洗面台・ウォシュレット・借家種別未確認。築58年5ヶ月・RC。同建物に1階2DKの別募集あり"
+        }
+      ]
+    },
+    {
+      "name": "大田区多摩川2丁目住宅",
+      "area": "大田区多摩川2丁目",
+      "station": "矢口渡駅徒歩10分",
+      "rooms": [
+        {
+          "id": "tamagawa-2chome-jutaku",
+          "room": "",
+          "layout": "2DK",
+          "size": 46.37,
+          "rent": 14.0,
+          "fee": 0.0,
+          "total": 14.0,
+          "kamata_min": "約20分",
+          "status": "要問合せ",
+          "change": "新規 11/25",
+          "expiry": "2026-12-02",
+          "source": "DaVinci",
+          "url": "https://forent.7771.co.jp/detail.asp?w_no=7708",
+          "note": "洗面台・温水洗浄便座・3口以上ガスコンロ・バス・トイレ別・契約期間2年確認済み、独立洗面台の「独立」・借家種別未確認。情報公開日2026/11/25"
+        }
+      ]
+    },
+    {
+      "name": "大森西5丁目戸建",
+      "area": "大田区大森西5丁目",
+      "station": "大森町駅徒歩8分",
+      "rooms": [
+        {
+          "id": "omorinishi-5-kodate",
+          "room": "",
+          "layout": "2DK",
+          "size": 38.91,
+          "rent": 8.9,
+          "fee": 0.3,
+          "total": 9.2,
+          "kamata_min": "約20分",
+          "status": "要問合せ",
+          "change": "新規 11/25",
+          "expiry": null,
+          "source": "いい部屋ネット",
+          "url": "https://www.eheya.net/tokyo/area/13111/search/?highlight_property_full_id=300001013286559000001",
+          "note": "設備・契約形態未確認。築40年・戸建、即入居可"
+        }
+      ]
+    },
+    {
+      "name": "LENIHEIM",
+      "area": "大田区中央5丁目",
+      "station": "西馬込駅徒歩15分",
+      "rooms": [
+        {
+          "id": "leniheim-0102",
+          "room": "0102号室",
+          "layout": "2DK",
+          "size": 37.83,
+          "rent": 10.8,
+          "fee": 0.5,
+          "total": 11.3,
+          "kamata_min": "約30〜35分",
+          "status": "要問合せ",
+          "change": "新規 11/25",
+          "expiry": null,
+          "source": "いい部屋ネット",
+          "url": "http://eheya.net/tokyo/area/13111/search/?house_plan=2DK&price_to=115000&walk_from_station_x=15",
+          "note": "設備・契約形態未確認。築27年、即入居可"
+        }
+      ]
+    },
+    {
+      "name": "第二和光荘",
+      "area": "大田区東馬込1丁目",
+      "station": "馬込駅徒歩6分",
+      "rooms": [
+        {
+          "id": "daini-wakoso-2f",
+          "room": "2階",
+          "layout": "2DK",
+          "size": 39.66,
+          "rent": 11.0,
+          "fee": 0.1,
+          "total": 11.1,
+          "kamata_min": "約30分",
+          "status": "要問合せ",
+          "change": "新規 11/25",
+          "expiry": null,
+          "source": "いい部屋ネット",
+          "url": "http://eheya.net/tokyo/area/13111/search/?house_plan=2DK&price_to=115000&walk_from_station_x=15",
+          "note": "設備・契約形態未確認。築42年、即入居可"
+        }
+      ]
+    },
+    {
+      "name": "東矢口3丁目（建物名不明）",
+      "area": "大田区東矢口3丁目",
+      "station": "蓮沼駅徒歩5分",
+      "rooms": [
+        {
+          "id": "higashiyaguchi-3-5f",
+          "room": "5階",
+          "layout": "2LDK",
+          "size": 46.3,
+          "rent": 12.0,
+          "fee": 0.0,
+          "total": 12.0,
+          "kamata_min": "約15分",
+          "status": "要問合せ",
+          "change": "新規 11/25",
+          "expiry": null,
+          "source": "goo",
+          "url": "https://house.ocn.ne.jp/sp/chintai/special/1042/area_tokyo/13111/046.html",
+          "note": "建物名未特定。バス・トイレ別のみ確認、独立洗面台・ウォシュレット・ガス口数・契約形態未確認。築41年7ヶ月・最上階角部屋"
         }
       ]
     }

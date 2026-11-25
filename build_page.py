@@ -147,7 +147,7 @@ function renderSummary(){
     `${DATA.updated.replace(/-/g,"/")} 時点 ・ <b>${DATA.buildings.length}棟・全${rooms.length}部屋</b>（全条件クリア ${cnt("全条件クリア")}件 ／ 要問合せ ${cnt("要問合せ")}件 ／ 予備 ${cnt("予備")}件）`;
 }
 function renderChanges(){
-  const groups = [["新規 11/24","新規"],["別部屋追加","別部屋追加"],["情報更新","情報更新"]];
+  const groups = [["新規 11/25","新規"],["別部屋追加","別部屋追加"],["情報更新","情報更新"]];
   const rooms = [];
   DATA.buildings.forEach(b => b.rooms.forEach(r => rooms.push({b, r})));
   let html = "<h2>今回の変更点</h2>";
