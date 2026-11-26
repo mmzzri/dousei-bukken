@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "buildings": [
     {
       "name": "ドミール田園調布",
@@ -401,7 +401,7 @@
           "kamata_min": "約30分",
           "status": "要問合せ",
           "change": null,
-          "expiry": "2026-12-07",
+          "expiry": "2026-12-09",
           "source": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100525417712/",
           "note": "プロパンガス・ガスコンロ対応、独立洗面台・ウォシュレット未確認"
@@ -1592,7 +1592,7 @@
           "kamata_min": "約30〜35分",
           "status": "要問合せ",
           "change": "情報更新",
-          "expiry": "2026-12-02",
+          "expiry": "2026-12-03",
           "source": "スモッカ",
           "url": "https://smocca.jp/bukken/detail/z_2_e3b1533dc72894720adffe28657edf1b",
           "note": "ガスコンロ対応・温水洗浄便座・洗面所独立・都市ガス・普通借家2年確認済み、コンロ口数未確認。築1984年・木造戸建、即入居可"
@@ -1860,11 +1860,11 @@
           "total": 14.0,
           "kamata_min": "約20分",
           "status": "要問合せ",
-          "change": "新規 11/25",
-          "expiry": "2026-12-02",
+          "change": "情報更新",
+          "expiry": "2026-12-03",
           "source": "DaVinci",
           "url": "https://forent.7771.co.jp/detail.asp?w_no=7708",
-          "note": "洗面台・温水洗浄便座・3口以上ガスコンロ・バス・トイレ別・契約期間2年確認済み、独立洗面台の「独立」・借家種別未確認。情報公開日2026/11/25"
+          "note": "洗面台・温水洗浄便座・3口以上ガスコンロ・バス・トイレ別・契約期間2年確認済み、独立洗面台の「独立」・借家種別未確認。情報公開日2026/11/26"
         }
       ]
     },
@@ -1883,7 +1883,7 @@
           "total": 9.2,
           "kamata_min": "約20分",
           "status": "要問合せ",
-          "change": "新規 11/25",
+          "change": null,
           "expiry": null,
           "source": "いい部屋ネット",
           "url": "https://www.eheya.net/tokyo/area/13111/search/?highlight_property_full_id=300001013286559000001",
@@ -1906,7 +1906,7 @@
           "total": 11.3,
           "kamata_min": "約30〜35分",
           "status": "要問合せ",
-          "change": "新規 11/25",
+          "change": null,
           "expiry": null,
           "source": "いい部屋ネット",
           "url": "http://eheya.net/tokyo/area/13111/search/?house_plan=2DK&price_to=115000&walk_from_station_x=15",
@@ -1929,7 +1929,7 @@
           "total": 11.1,
           "kamata_min": "約30分",
           "status": "要問合せ",
-          "change": "新規 11/25",
+          "change": null,
           "expiry": null,
           "source": "いい部屋ネット",
           "url": "http://eheya.net/tokyo/area/13111/search/?house_plan=2DK&price_to=115000&walk_from_station_x=15",
@@ -1952,11 +1952,195 @@
           "total": 12.0,
           "kamata_min": "約15分",
           "status": "要問合せ",
-          "change": "新規 11/25",
+          "change": null,
           "expiry": null,
           "source": "goo",
           "url": "https://house.ocn.ne.jp/sp/chintai/special/1042/area_tokyo/13111/046.html",
           "note": "建物名未特定。バス・トイレ別のみ確認、独立洗面台・ウォシュレット・ガス口数・契約形態未確認。築41年7ヶ月・最上階角部屋"
+        }
+      ]
+    },
+    {
+      "name": "蒲田1丁目（建物名不明）",
+      "area": "大田区蒲田1丁目",
+      "station": "蒲田駅徒歩10分",
+      "rooms": [
+        {
+          "id": "kamata-1chome-4f",
+          "room": "4階",
+          "layout": "2DK",
+          "size": 35.0,
+          "rent": 9.2,
+          "fee": 0.3,
+          "total": 9.5,
+          "kamata_min": "約10分",
+          "status": "要問合せ",
+          "change": "新規 11/26",
+          "expiry": "2026-12-08",
+          "source": "ニフティ",
+          "url": "https://myhome.nifty.com/rent/tokyo/otaku_ct/detail_018c6c78fc663f799351ee6037ce6076/",
+          "note": "コンロ2口以上・洗面台・ウォシュレット・都市ガス・バス・トイレ別確認済み。借家種別未確認。備考に「未入籍婚約者不可」あり。築38年6ヶ月・RC造。情報公開日2026/11/24、即入居可"
+        }
+      ]
+    },
+    {
+      "name": "カバヤビル",
+      "area": "大田区中央7丁目",
+      "station": "池上駅徒歩15分",
+      "rooms": [
+        {
+          "id": "kabaya-bldg-4f",
+          "room": "4階",
+          "layout": "2DK",
+          "size": 53.08,
+          "rent": 10.0,
+          "fee": 1.29,
+          "total": 11.29,
+          "kamata_min": "約23分",
+          "status": "要問合せ",
+          "change": "新規 11/26",
+          "expiry": "2026-12-09",
+          "source": "ニフティ",
+          "url": "https://myhome.nifty.com/rent/tokyo/otaku_ct/detail_e9ab01932e6e3cd6ac3dbe8a1e26db38/",
+          "note": "コンロ2口以上・温水洗浄便座・都市ガス・バス・トイレ別確認済み。独立洗面台・借家種別未確認。築54年10ヶ月・RC造。情報公開日2026/11/24、即入居可"
+        }
+      ]
+    },
+    {
+      "name": "萩中戸建",
+      "area": "大田区萩中2丁目",
+      "station": "糀谷駅徒歩5分",
+      "rooms": [
+        {
+          "id": "haginaka-kodate-2f",
+          "room": "2階",
+          "layout": "2DK",
+          "size": 42.14,
+          "rent": 9.0,
+          "fee": 0.0,
+          "total": 9.0,
+          "kamata_min": "約20分",
+          "status": "要問合せ",
+          "change": "新規 11/26",
+          "expiry": null,
+          "source": "goo",
+          "url": "https://house.goo.ne.jp/rent/ap/special/1026/ensen/331/2331120.html",
+          "note": "洗面所独立・温水洗浄便座・バス・トイレ別・二人入居可確認済み。ガス／コンロ・借家種別未確認。築36年1ヶ月・戸建。同じ建物で10万円の重複掲載あり"
+        }
+      ]
+    },
+    {
+      "name": "光ハイツB",
+      "area": "川崎市中原区上小田中1丁目",
+      "station": "武蔵新城駅徒歩10分",
+      "rooms": [
+        {
+          "id": "hikari-heights-b-1f",
+          "room": "1階",
+          "layout": "2DK",
+          "size": 40.92,
+          "rent": 8.5,
+          "fee": 0.0,
+          "total": 8.5,
+          "kamata_min": "約30〜35分",
+          "status": "要問合せ",
+          "change": "新規 11/26",
+          "expiry": null,
+          "source": "エイブル",
+          "url": "https://www.able.co.jp/tokyo/ensen/101007018/list/retro/",
+          "note": "バス・トイレ別のみ確認。設備・借家種別未確認。築36年・軽量鉄骨造。情報登録日2026/11/26"
+        }
+      ]
+    },
+    {
+      "name": "アルカディア",
+      "area": "川崎市高津区新作6丁目",
+      "station": "武蔵新城駅徒歩11分",
+      "rooms": [
+        {
+          "id": "arcadia-shinsaku-1f",
+          "room": "1階",
+          "layout": "2DK",
+          "size": 51.12,
+          "rent": 11.5,
+          "fee": 0.5,
+          "total": 12.0,
+          "kamata_min": "約30〜35分",
+          "status": "要問合せ",
+          "change": "新規 11/26",
+          "expiry": null,
+          "source": "エイブル",
+          "url": "https://www.able.co.jp/tokyo/ensen/101007018/list/retro/",
+          "note": "バス・トイレ別のみ確認。設備・借家種別未確認。築47年・RC造。情報登録日2026/11/26"
+        }
+      ]
+    },
+    {
+      "name": "リバーサイド末広",
+      "area": "川崎市中原区宮内2丁目",
+      "station": "武蔵新城駅徒歩13分",
+      "rooms": [
+        {
+          "id": "riverside-suehiro-1f",
+          "room": "1階",
+          "layout": "2LDK",
+          "size": 47.3,
+          "rent": 11.0,
+          "fee": 0.3,
+          "total": 11.3,
+          "kamata_min": "約30〜35分",
+          "status": "要問合せ",
+          "change": "新規 11/26",
+          "expiry": null,
+          "source": "エイブル",
+          "url": "https://www.able.co.jp/tokyo/ensen/101007018/list/retro/",
+          "note": "バス・トイレ別のみ確認。設備・借家種別未確認。築32年・鉄骨造。情報登録日2026/11/26"
+        }
+      ]
+    },
+    {
+      "name": "アンビションビレッジ",
+      "area": "川崎市高津区新作4丁目",
+      "station": "武蔵新城駅徒歩13分",
+      "rooms": [
+        {
+          "id": "ambitious-village-4f",
+          "room": "4階",
+          "layout": "2LDK",
+          "size": 47.86,
+          "rent": 11.5,
+          "fee": 0.3,
+          "total": 11.8,
+          "kamata_min": "約30〜35分",
+          "status": "要問合せ",
+          "change": "新規 11/26",
+          "expiry": null,
+          "source": "エイブル",
+          "url": "https://www.able.co.jp/tokyo/ensen/101007018/list/retro/",
+          "note": "バス・トイレ別・オートロック確認済み。設備・借家種別未確認。築37年・RC造。情報登録日2026/11/26"
+        }
+      ]
+    },
+    {
+      "name": "エム・K・ハイム",
+      "area": "川崎市高津区北見方3丁目",
+      "station": "武蔵新城駅徒歩19分",
+      "rooms": [
+        {
+          "id": "mk-heim-2f",
+          "room": "2階",
+          "layout": "2LDK",
+          "size": 49.0,
+          "rent": 10.5,
+          "fee": 0.0,
+          "total": 10.5,
+          "kamata_min": "約35〜40分",
+          "status": "要問合せ",
+          "change": "新規 11/26",
+          "expiry": null,
+          "source": "エイブル",
+          "url": "https://www.able.co.jp/tokyo/ensen/101007018/list/retro/",
+          "note": "バス・トイレ別のみ確認。設備・借家種別未確認。築30年・RC造。即入居可。情報登録日2026/11/26"
         }
       ]
     }
