@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "buildings": [
     {
       "name": "ドミール田園調布",
@@ -401,7 +401,7 @@
           "kamata_min": "約30分",
           "status": "要問合せ",
           "change": null,
-          "expiry": "2026-12-10",
+          "expiry": "2026-12-11",
           "source": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100525417712/",
           "note": "プロパンガス・ガスコンロ対応、独立洗面台・ウォシュレット未確認"
@@ -653,8 +653,8 @@
           "total": 10.0,
           "kamata_min": "約45〜50分",
           "status": "要問合せ",
-          "change": null,
-          "expiry": "2026-12-01",
+          "change": "情報更新",
+          "expiry": "2026-12-05",
           "source": "HOME'S",
           "url": "https://www.homes.co.jp/chintai/b-01432080083727/",
           "note": "設備は全条件クリア（ガス3口・独立洗面台・ウォシュレット）、契約形態の明記なし"
@@ -722,7 +722,7 @@
           "total": 14.0,
           "kamata_min": "約50〜55分",
           "status": "全条件クリア",
-          "change": "情報更新",
+          "change": null,
           "expiry": "2026-12-10",
           "source": "住まい探しの窓口",
           "url": "https://www.sumaisagashi-madoguchi.com/search/properties_iel000039_5679434/",
@@ -741,15 +741,15 @@
           "layout": "2DK",
           "size": 50.1,
           "rent": 11.0,
-          "fee": null,
-          "total": 11.0,
+          "fee": 0.6,
+          "total": 11.6,
           "kamata_min": "約55〜60分",
           "status": "要問合せ",
-          "change": null,
+          "change": "情報更新",
           "expiry": "2026-11-30",
           "source": "住まい探しの窓口",
           "url": "https://www.sumaisagashi-madoguchi.com/search/properties_iel000045_5682854/",
-          "note": "ガス3口・独立洗面台・普通契約2年確認済み、ウォシュレット・管理費未確認"
+          "note": "ガス3口・独立洗面台・普通契約2年・管理費6,000円確認済み、ウォシュレット未確認"
         }
       ]
     },
@@ -791,7 +791,7 @@
           "total": 13.9,
           "kamata_min": "約45〜50分",
           "status": "予備",
-          "change": "情報更新",
+          "change": null,
           "expiry": "2026-12-10",
           "source": "住まい探しの窓口",
           "url": "https://www.sumaisagashi-madoguchi.com/search/properties_iel000039_5826863/",
@@ -814,7 +814,7 @@
           "total": 13.2,
           "kamata_min": "約50分",
           "status": "予備",
-          "change": "情報更新",
+          "change": null,
           "expiry": "2026-12-10",
           "source": "住まい探しの窓口",
           "url": "https://www.sumaisagashi-madoguchi.com/search/properties_iel000039_5824074/",
@@ -825,16 +825,32 @@
           "room": "2階",
           "layout": "3DK",
           "size": 52.25,
-          "rent": 13.3,
-          "fee": 0.6,
-          "total": 13.9,
+          "rent": 13.1,
+          "fee": 0.7,
+          "total": 13.8,
           "kamata_min": "約50分",
           "status": "要問合せ",
-          "change": null,
+          "change": "情報更新",
           "expiry": null,
           "source": "CAMPA",
           "url": "https://campa-student.townhousing.co.jp/building/detail/%E3%83%91%E3%83%BC%E3%82%AF%E3%83%92%E3%83%AB%E3%82%BA%E9%B7%BA%E6%B2%BC%E5%BC%90%E7%95%AA%E9%A4%A8-542424/",
-          "note": "同建物の別部屋の追加募集。設備・契約は部屋別未確認"
+          "note": "309号室。ガス3口・独立洗面台・コンロ2口以上・都市ガス確認済み（スモッカ・goo/SUUMO 2026/11/24-25更新）、ウォシュレット・借家種別未確認。入居2027年1月下旬"
+        },
+        {
+          "id": "parkhills-saginuma-3f",
+          "room": "3階",
+          "layout": "3DK",
+          "size": 52.25,
+          "rent": 13.1,
+          "fee": 0.7,
+          "total": 13.8,
+          "kamata_min": "約50分",
+          "status": "要問合せ",
+          "change": "別部屋追加",
+          "expiry": "2026-12-01",
+          "source": "goo",
+          "url": "https://house.goo.ne.jp/rent/ap/detail/4/14136/1432080083128/143208/x41432080083128.html",
+          "note": "ガスコンロ可・コンロ2口以上・洗面所独立・バス・トイレ別・契約期間2年確認済み、ウォシュレット・借家種別未確認。入居2027年1月下旬"
         }
       ]
     },
@@ -1423,7 +1439,7 @@
           "total": 10.5,
           "kamata_min": "約30〜35分",
           "status": "要問合せ",
-          "change": "別部屋追加",
+          "change": null,
           "expiry": null,
           "source": "いい部屋ネット",
           "url": "https://www.eheya.net/tokyo/area/13111/search/?highlight_property_full_id=300001013286603000001",
@@ -1524,52 +1540,6 @@
       ]
     },
     {
-      "name": "第一大黒ビル",
-      "area": "大田区多摩川2丁目",
-      "station": "蒲田駅徒歩21分",
-      "rooms": [
-        {
-          "id": "daiichi-daikoku-bldg-2f",
-          "room": "2階",
-          "layout": "2LDK",
-          "size": 46.06,
-          "rent": 13.0,
-          "fee": 0.8,
-          "total": 13.8,
-          "kamata_min": "徒歩約21分",
-          "status": "要問合せ",
-          "change": null,
-          "expiry": null,
-          "source": "ニフティ",
-          "url": "https://myhome.nifty.com/rent/ft_family/tokyo/kamata_st/5/",
-          "note": "バス・トイレ別・フローリング・オートロックのみ確認、独立洗面台・ウォシュレット・ガス口数・契約形態未確認。築35年・RC造"
-        }
-      ]
-    },
-    {
-      "name": "カサデうさぎ",
-      "area": "大田区多摩川1丁目",
-      "station": "蒲田駅徒歩18分",
-      "rooms": [
-        {
-          "id": "casade-usagi-3f",
-          "room": "3階",
-          "layout": "2LDK",
-          "size": 48.22,
-          "rent": 12.5,
-          "fee": 0.0,
-          "total": 12.5,
-          "kamata_min": "徒歩約18分",
-          "status": "要問合せ",
-          "change": null,
-          "expiry": null,
-          "source": "ニフティ",
-          "url": "https://myhome.nifty.com/rent/ft_family/tokyo/kamata_st/5/",
-          "note": "コンロ2口以上・バス・トイレ別確認済み、独立洗面台・ウォシュレット・契約形態未確認。築36年・鉄骨造"
-        }
-      ]
-    },
-    {
       "name": "南馬込1丁目戸建",
       "area": "大田区南馬込1丁目",
       "station": "西馬込駅徒歩8分",
@@ -1585,7 +1555,7 @@
           "kamata_min": "約30〜35分",
           "status": "要問合せ",
           "change": null,
-          "expiry": "2026-12-04",
+          "expiry": "2026-12-05",
           "source": "スモッカ",
           "url": "https://smocca.jp/bukken/detail/z_2_e3b1533dc72894720adffe28657edf1b",
           "note": "ガスコンロ対応・温水洗浄便座・洗面所独立・都市ガス・普通借家2年確認済み、コンロ口数未確認。築1984年・木造戸建、即入居可"
@@ -1754,29 +1724,6 @@
       ]
     },
     {
-      "name": "アクシス池上",
-      "area": "大田区池上6丁目",
-      "station": "池上駅徒歩3分",
-      "rooms": [
-        {
-          "id": "axis-ikegami-4f",
-          "room": "4階",
-          "layout": "2LDK",
-          "size": 40.0,
-          "rent": 13.5,
-          "fee": 0.0,
-          "total": 13.5,
-          "kamata_min": "約20分",
-          "status": "要問合せ",
-          "change": null,
-          "expiry": null,
-          "source": "ニフティ",
-          "url": "https://myhome.nifty.com/rent/ft_2ldk/tokyo/hasunuma_st/2/",
-          "note": "バス・トイレ別・フローリング・オートロックのみ確認、独立洗面台・ウォシュレット・ガス口数・借家種別未確認。築36年8ヶ月・RC"
-        }
-      ]
-    },
-    {
       "name": "ハイツフォレスト",
       "area": "川崎市高津区千年",
       "station": "武蔵新城駅徒歩17分",
@@ -1854,7 +1801,7 @@
           "kamata_min": "約20分",
           "status": "要問合せ",
           "change": null,
-          "expiry": "2026-12-03",
+          "expiry": "2026-12-05",
           "source": "DaVinci",
           "url": "https://forent.7771.co.jp/detail.asp?w_no=7708",
           "note": "洗面台・温水洗浄便座・3口以上ガスコンロ・バス・トイレ別・契約期間2年確認済み、独立洗面台の「独立」・借家種別未確認。情報公開日2026/11/26"
@@ -2152,7 +2099,7 @@
           "total": 12.5,
           "kamata_min": "約20〜25分",
           "status": "要問合せ",
-          "change": "新規 11/27",
+          "change": null,
           "expiry": "2026-12-10",
           "source": "ハウスコム",
           "url": "https://www.housecom.jp/room_1836693/",
@@ -2175,7 +2122,7 @@
           "total": 10.0,
           "kamata_min": "約20〜25分",
           "status": "要問合せ",
-          "change": "新規 11/27",
+          "change": null,
           "expiry": null,
           "source": "ハウスコム",
           "url": "https://www.housecom.jp/build_5904118/",
@@ -2198,7 +2145,7 @@
           "total": 8.5,
           "kamata_min": "約25〜30分",
           "status": "要問合せ",
-          "change": "新規 11/27",
+          "change": null,
           "expiry": null,
           "source": "goo",
           "url": "https://house.goo.ne.jp/rent/ap/detail/1/14133/030H100534709867/071816268/x1030H100534709867.html",
@@ -2221,11 +2168,471 @@
           "total": 12.6,
           "kamata_min": "約30〜35分",
           "status": "要問合せ",
-          "change": "新規 11/27",
+          "change": null,
           "expiry": null,
           "source": "アットホーム",
           "url": "https://www.athome.co.jp/bldg-library/kanagawa/kawasaki_takatsu/281414/",
           "note": "バス・トイレ別・ガスコンロ対応・洗面所独立あり、ウォシュレット・ガス口数・契約形態未確認"
+        }
+      ]
+    },
+    {
+      "name": "グランパ池上",
+      "area": "大田区池上4丁目",
+      "station": "池上駅徒歩11分",
+      "rooms": [
+        {
+          "id": "granpa-ikegami-3f",
+          "room": "3階",
+          "layout": "2DK",
+          "size": 42.25,
+          "rent": 13.5,
+          "fee": 0.3,
+          "total": 13.8,
+          "kamata_min": "約25〜30分",
+          "status": "要問合せ",
+          "change": "新規 11/28",
+          "expiry": null,
+          "source": "いい部屋ネット",
+          "url": "https://www.eheya.net/detail/300001223308411000001/",
+          "note": "独立洗面台・ガスコンロ付・都市ガス・普通賃貸借契約24ヶ月確認済み、ウォシュレット・コンロ口数未確認。敷金・礼金ゼロ。情報更新日2026/11/28"
+        }
+      ]
+    },
+    {
+      "name": "フジビュー大崎",
+      "area": "品川区西品川1丁目",
+      "station": "下神明駅徒歩7分",
+      "rooms": [
+        {
+          "id": "fujiview-osaki-2f",
+          "room": "2階",
+          "layout": "2DK",
+          "size": 32.0,
+          "rent": 13.5,
+          "fee": 0.5,
+          "total": 14.0,
+          "kamata_min": "約25分",
+          "status": "要問合せ",
+          "change": "新規 11/28",
+          "expiry": "2026-12-02",
+          "source": "ニフティ",
+          "url": "https://myhome.nifty.com/rent/tokyo/shinagawaku_ct/detail_fa7d7fe3b94937feb30cbe836addb611/",
+          "note": "洗面所独立・コンロ二口・温水洗浄便座・普通借家2年確認済み（goo/SUUMO）。ニフティでは2DK、SUUMO/gooでは2Kと表記ゆれあり。合計ちょうど14.0万円"
+        }
+      ]
+    },
+    {
+      "name": "パークサイド南大井",
+      "area": "品川区南大井1丁目",
+      "station": "立会川駅徒歩5分",
+      "rooms": [
+        {
+          "id": "parkside-minamioi-1f",
+          "room": "1階",
+          "layout": "2DK",
+          "size": 39.42,
+          "rent": 11.6,
+          "fee": 0.9,
+          "total": 12.5,
+          "kamata_min": "約20〜25分",
+          "status": "要問合せ",
+          "change": "新規 11/28",
+          "expiry": null,
+          "source": "いい部屋ネット",
+          "url": "https://www.eheya.net/tokyo/area/13109/search/?highlight_property_full_id=300001013294202000001",
+          "note": "設備・借家種別未確認"
+        }
+      ]
+    },
+    {
+      "name": "喜多見パース",
+      "area": "世田谷区喜多見9丁目",
+      "station": "喜多見駅徒歩5分",
+      "rooms": [
+        {
+          "id": "kitami-pasu-2f",
+          "room": "2階",
+          "layout": "2DK",
+          "size": 49.5,
+          "rent": 11.8,
+          "fee": 0.2,
+          "total": 12.0,
+          "kamata_min": "約45〜50分",
+          "status": "要問合せ",
+          "change": "新規 11/28",
+          "expiry": null,
+          "source": "ニフティ",
+          "url": "https://myhome.nifty.com/rent/tokyo/setagayaku_ct/5/?r3=22",
+          "note": "コンロ2口以上・バス・トイレ別確認済み、独立洗面台・ウォシュレット・借家種別未確認"
+        }
+      ]
+    },
+    {
+      "name": "テラスワン",
+      "area": "世田谷区上北沢5丁目",
+      "station": "八幡山駅徒歩4分",
+      "rooms": [
+        {
+          "id": "terrace-one-2f",
+          "room": "2階",
+          "layout": "2DK",
+          "size": 38.52,
+          "rent": 10.3,
+          "fee": 0.2,
+          "total": 10.5,
+          "kamata_min": "約50〜55分",
+          "status": "要問合せ",
+          "change": "新規 11/28",
+          "expiry": null,
+          "source": "ニフティ",
+          "url": "https://myhome.nifty.com/rent/tokyo/setagayaku_ct/5/?r3=22",
+          "note": "コンロ2口以上・バス・トイレ別確認済み、独立洗面台・ウォシュレット・借家種別未確認"
+        }
+      ]
+    },
+    {
+      "name": "ヴィラコート用賀",
+      "area": "世田谷区用賀3丁目",
+      "station": "桜新町駅徒歩7分",
+      "rooms": [
+        {
+          "id": "villa-court-yoga-2f",
+          "room": "2階",
+          "layout": "2DK",
+          "size": 36.3,
+          "rent": 12.8,
+          "fee": 0.4,
+          "total": 13.2,
+          "kamata_min": "約50〜55分",
+          "status": "要問合せ",
+          "change": "新規 11/28",
+          "expiry": null,
+          "source": "ニフティ",
+          "url": "https://myhome.nifty.com/rent/tokyo/setagayaku_ct/5/?r3=22",
+          "note": "バス・トイレ別確認済み、独立洗面台・ウォシュレット・コンロ口数・借家種別未確認"
+        }
+      ]
+    },
+    {
+      "name": "グランディール上野毛",
+      "area": "世田谷区上野毛2丁目",
+      "station": "上野毛駅徒歩7分",
+      "rooms": [
+        {
+          "id": "grandir-kaminoge-2f",
+          "room": "2階",
+          "layout": "2DK",
+          "size": 45.92,
+          "rent": 13.5,
+          "fee": 0.0,
+          "total": 13.5,
+          "kamata_min": "約35〜40分",
+          "status": "要問合せ",
+          "change": "新規 11/28",
+          "expiry": null,
+          "source": "ニフティ",
+          "url": "https://myhome.nifty.com/rent/tokyo/setagayaku_ct/5/?r3=22",
+          "note": "コンロ2口以上・バス・トイレ別確認済み、独立洗面台・ウォシュレット・借家種別未確認"
+        }
+      ]
+    },
+    {
+      "name": "グランデュール奥沢",
+      "area": "世田谷区奥沢3丁目",
+      "station": "奥沢駅徒歩6分",
+      "rooms": [
+        {
+          "id": "grandeur-okuzawa-2f",
+          "room": "2階",
+          "layout": "2DK",
+          "size": 43.8,
+          "rent": 13.5,
+          "fee": 0.0,
+          "total": 13.5,
+          "kamata_min": "約35〜40分",
+          "status": "要問合せ",
+          "change": "新規 11/28",
+          "expiry": null,
+          "source": "ニフティ",
+          "url": "https://myhome.nifty.com/rent/tokyo/setagayaku_ct/5/?r3=22",
+          "note": "バス・トイレ別確認済み、独立洗面台・ウォシュレット・コンロ口数・借家種別未確認"
+        }
+      ]
+    },
+    {
+      "name": "ペイズリーパーク",
+      "area": "世田谷区代田4丁目",
+      "station": "東松原駅徒歩5分",
+      "rooms": [
+        {
+          "id": "paisley-park-2f",
+          "room": "2階",
+          "layout": "2DK",
+          "size": 35.0,
+          "rent": 10.8,
+          "fee": 0.2,
+          "total": 11.0,
+          "kamata_min": "約45〜50分",
+          "status": "要問合せ",
+          "change": "新規 11/28",
+          "expiry": null,
+          "source": "ニフティ",
+          "url": "https://myhome.nifty.com/rent/tokyo/setagayaku_ct/5/?r3=22",
+          "note": "コンロ2口以上・バス・トイレ別確認済み、独立洗面台・ウォシュレット・借家種別未確認"
+        }
+      ]
+    },
+    {
+      "name": "ガーデンハイツ",
+      "area": "世田谷区桜丘2丁目",
+      "station": "千歳船橋駅徒歩4分",
+      "rooms": [
+        {
+          "id": "garden-heights-3f",
+          "room": "3階",
+          "layout": "2DK",
+          "size": 38.88,
+          "rent": 12.8,
+          "fee": 0.5,
+          "total": 13.3,
+          "kamata_min": "約40〜45分",
+          "status": "要問合せ",
+          "change": "新規 11/28",
+          "expiry": null,
+          "source": "ニフティ",
+          "url": "https://myhome.nifty.com/rent/tokyo/setagayaku_ct/5/?r3=22",
+          "note": "バス・トイレ別確認済み、独立洗面台・ウォシュレット・コンロ口数・借家種別未確認"
+        }
+      ]
+    },
+    {
+      "name": "モントレー山恵",
+      "area": "世田谷区宮坂3丁目",
+      "station": "経堂駅徒歩8分",
+      "rooms": [
+        {
+          "id": "monterey-yamamegumi-2f",
+          "room": "2階",
+          "layout": "2DK",
+          "size": 38.61,
+          "rent": 11.2,
+          "fee": 0.3,
+          "total": 11.5,
+          "kamata_min": "約45〜50分",
+          "status": "要問合せ",
+          "change": "新規 11/28",
+          "expiry": null,
+          "source": "ニフティ",
+          "url": "https://myhome.nifty.com/rent/tokyo/setagayaku_ct/5/?r3=22",
+          "note": "バス・トイレ別確認済み、独立洗面台・ウォシュレット・コンロ口数・借家種別未確認"
+        }
+      ]
+    },
+    {
+      "name": "クレール池尻",
+      "area": "世田谷区池尻4丁目",
+      "station": "池尻大橋駅徒歩12分",
+      "rooms": [
+        {
+          "id": "claire-ikejiri-2f",
+          "room": "2階",
+          "layout": "2DK",
+          "size": 37.19,
+          "rent": 10.6,
+          "fee": 0.2,
+          "total": 10.8,
+          "kamata_min": "約50〜55分",
+          "status": "要問合せ",
+          "change": "新規 11/28",
+          "expiry": null,
+          "source": "ニフティ",
+          "url": "https://myhome.nifty.com/rent/tokyo/setagayaku_ct/5/?r3=22",
+          "note": "コンロ2口以上・バス・トイレ別確認済み、独立洗面台・ウォシュレット・借家種別未確認"
+        }
+      ]
+    },
+    {
+      "name": "新東京園マンション",
+      "area": "世田谷区玉堤1丁目",
+      "station": "尾山台駅徒歩16分",
+      "rooms": [
+        {
+          "id": "shin-tokyoen-mansion-4f",
+          "room": "4階",
+          "layout": "2DK",
+          "size": 42.66,
+          "rent": 11.5,
+          "fee": 0.0,
+          "total": 11.5,
+          "kamata_min": "約50分",
+          "status": "要問合せ",
+          "change": "新規 11/28",
+          "expiry": null,
+          "source": "ニフティ",
+          "url": "https://myhome.nifty.com/rent/tokyo/setagayaku_ct/5/?r3=22",
+          "note": "バス・トイレ別確認済み、独立洗面台・ウォシュレット・コンロ口数・借家種別未確認。最寄り駅まで徒歩16分と遠め"
+        }
+      ]
+    },
+    {
+      "name": "多摩ハイツＡ棟",
+      "area": "世田谷区野毛3丁目",
+      "station": "上野毛駅徒歩13分",
+      "rooms": [
+        {
+          "id": "tama-heights-a-2f",
+          "room": "2階",
+          "layout": "2DK",
+          "size": 33.0,
+          "rent": 10.4,
+          "fee": 0.2,
+          "total": 10.6,
+          "kamata_min": "約40〜45分",
+          "status": "要問合せ",
+          "change": "新規 11/28",
+          "expiry": null,
+          "source": "ニフティ",
+          "url": "https://myhome.nifty.com/rent/tokyo/setagayaku_ct/5/?r3=22",
+          "note": "コンロ2口以上・バス・トイレ別確認済み、独立洗面台・ウォシュレット・借家種別未確認"
+        }
+      ]
+    },
+    {
+      "name": "ホワイトパレス田園調布",
+      "area": "世田谷区玉堤1丁目",
+      "station": "田園調布駅徒歩15分",
+      "rooms": [
+        {
+          "id": "white-palace-denenchofu-2f",
+          "room": "2階",
+          "layout": "2DK",
+          "size": 41.0,
+          "rent": 12.0,
+          "fee": 0.0,
+          "total": 12.0,
+          "kamata_min": "約40〜45分",
+          "status": "要問合せ",
+          "change": "新規 11/28",
+          "expiry": null,
+          "source": "ニフティ",
+          "url": "https://myhome.nifty.com/rent/tokyo/setagayaku_ct/5/?r3=22",
+          "note": "バス・トイレ別確認済み、独立洗面台・ウォシュレット・コンロ口数・借家種別未確認。最寄り駅まで徒歩15分と遠め"
+        }
+      ]
+    },
+    {
+      "name": "フローラルハイツ（大原２）",
+      "area": "世田谷区大原2丁目",
+      "station": "代田橋駅徒歩7分",
+      "rooms": [
+        {
+          "id": "floral-heights-ohara-3f",
+          "room": "3階",
+          "layout": "2DK",
+          "size": 37.98,
+          "rent": 10.5,
+          "fee": 0.5,
+          "total": 11.0,
+          "kamata_min": "約50〜55分",
+          "status": "要問合せ",
+          "change": "新規 11/28",
+          "expiry": null,
+          "source": "ニフティ",
+          "url": "https://myhome.nifty.com/rent/tokyo/setagayaku_ct/5/?r3=22",
+          "note": "バス・トイレ別確認済み、独立洗面台・ウォシュレット・コンロ口数・借家種別未確認"
+        }
+      ]
+    },
+    {
+      "name": "グリーンハイツ橘",
+      "area": "川崎市中原区宮内4-11-15",
+      "station": "武蔵中原駅徒歩12分",
+      "rooms": [
+        {
+          "id": "green-heights-tachibana-201",
+          "room": "201号室",
+          "layout": "2DK",
+          "size": 42.18,
+          "rent": 10.0,
+          "fee": 0.8,
+          "total": 10.8,
+          "kamata_min": "約35〜40分",
+          "status": "要問合せ",
+          "change": "新規 11/28",
+          "expiry": "2026-12-04",
+          "source": "AIホームズくん（HOME'S）",
+          "url": "https://www.homes.co.jp/chintai/b-55310314741/",
+          "note": "ガスコンロ設置済・コンロ二口・洗面所独立・温水洗浄便座・都市ガス確認済み、借家種別未確認。入居2027年1月下旬"
+        }
+      ]
+    },
+    {
+      "name": "スティルフラットII",
+      "area": "川崎市高津区梶ケ谷4-11-19",
+      "station": "梶が谷駅徒歩13分",
+      "rooms": [
+        {
+          "id": "still-flat-2-101",
+          "room": "101号室",
+          "layout": "2LDK",
+          "size": 55.27,
+          "rent": 12.5,
+          "fee": 0.45,
+          "total": 12.95,
+          "kamata_min": "約50〜55分",
+          "status": "要問合せ",
+          "change": "新規 11/28",
+          "expiry": "2026-12-04",
+          "source": "AIホームズくん（HOME'S）",
+          "url": "https://www.homes.co.jp/chintai/b-56080141485/",
+          "note": "ガスコンロ設置済・コンロ三口・洗面所独立・温水洗浄便座・都市ガス確認済み、借家種別未確認。入居2027年1月下旬"
+        }
+      ]
+    },
+    {
+      "name": "フラット穂留壽",
+      "area": "川崎市高津区諏訪3丁目",
+      "station": "二子新地駅徒歩10分",
+      "rooms": [
+        {
+          "id": "flat-horusu-2f",
+          "room": "2階",
+          "layout": "2DK",
+          "size": 43.05,
+          "rent": 11.0,
+          "fee": 0.5,
+          "total": 11.5,
+          "kamata_min": "約45〜50分",
+          "status": "要問合せ",
+          "change": "新規 11/28",
+          "expiry": null,
+          "source": "いい部屋ネット",
+          "url": "https://www.eheya.net/kanagawa/area/14134/search/?highlight_property_full_id=300001213070383000001",
+          "note": "設備・借家種別未確認"
+        }
+      ]
+    },
+    {
+      "name": "EMINENCE",
+      "area": "川崎市高津区明津",
+      "station": "元住吉駅バス10分・明津バス停徒歩3分",
+      "rooms": [
+        {
+          "id": "eminence-2f",
+          "room": "00202号室",
+          "layout": "2LDK",
+          "size": 56.25,
+          "rent": 12.8,
+          "fee": 0.8,
+          "total": 13.6,
+          "kamata_min": "約45〜50分",
+          "status": "要問合せ",
+          "change": "新規 11/28",
+          "expiry": null,
+          "source": "いい部屋ネット",
+          "url": "https://www.eheya.net/kanagawa/area/14134/search/?highlight_property_full_id=300001182016403000002",
+          "note": "バス・トイレ別確認済み、独立洗面台・ウォシュレット・ガス口数・借家種別未確認。敷金0円・礼金0.5ヶ月。最終更新2026/11/17"
         }
       ]
     }
